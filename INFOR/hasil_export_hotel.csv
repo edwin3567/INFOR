@@ -1,0 +1,1501 @@
+ID Review,Nama Hotel,Kota,Kualitas Kamar (1-10),Kualitas Restoran (1-10),Kualitas Layanan (1-10),Tingkat Kebersihan (1-10),Harga per Malam (IDR),Overall Rating (1-5),Tanggal Review
+1,Ocean Breeze Hotel,Bali,8,8,7,5,2895699,3.4,2025-11-05
+2,Sunset Beach Resort,Bandung,7,6,6,8,2023773,3.4,2025-03-24
+3,Grand Luxury,Yogyakarta,10,8,5,8,3041865,3.8,2025-07-26
+4,Mountain View Inn,Bali,4,9,7,7,1422033,3.0,2025-11-16
+5,City Express,Bandung,7,9,5,8,2030571,3.5,2025-12-09
+6,Mountain View Inn,Jakarta,10,10,5,9,2799299,4.2,2025-01-12
+7,City Express,Bandung,4,7,8,6,1236262,3.0,2025-05-23
+8,Grand Luxury,Bali,7,8,9,9,2448214,4.0,2025-09-19
+9,City Express,Bali,9,3,4,5,2483547,2.9,2025-10-01
+10,Mountain View Inn,Jakarta,9,10,10,10,2597131,4.9,2025-04-13
+11,Ocean Breeze Hotel,Yogyakarta,5,4,5,7,1803953,2.7,2025-01-31
+12,Ocean Breeze Hotel,Surabaya,9,8,7,5,2651866,3.5,2025-06-17
+13,Grand Luxury,Bandung,5,7,7,6,1895624,2.9,2025-06-13
+14,Sunset Beach Resort,Jakarta,6,5,4,5,2363796,2.5,2025-11-10
+15,Mountain View Inn,Surabaya,4,8,5,7,1694147,2.9,2025-10-10
+16,Ocean Breeze Hotel,Surabaya,6,8,4,6,2002148,2.8,2025-07-06
+17,Mountain View Inn,Yogyakarta,9,3,9,6,2991435,3.4,2025-03-17
+18,Grand Luxury,Bali,6,4,6,5,2169115,2.8,2025-04-14
+19,City Express,Surabaya,9,6,5,8,3022356,3.6,2025-06-03
+20,City Express,Bandung,5,9,5,8,1761315,3.4,2025-05-06
+21,Grand Luxury,Surabaya,6,10,7,10,1754132,3.9,2025-12-30
+22,Sunset Beach Resort,Jakarta,10,10,8,5,2713885,4.0,2025-08-20
+23,City Express,Surabaya,5,10,9,10,1514573,3.9,2025-05-17
+24,Ocean Breeze Hotel,Jakarta,9,4,8,8,2805427,3.9,2025-02-07
+25,Sunset Beach Resort,Yogyakarta,9,9,4,7,2456704,3.5,2025-04-21
+26,Ocean Breeze Hotel,Jakarta,5,6,9,6,1630370,3.3,2025-10-28
+27,Sunset Beach Resort,Yogyakarta,5,3,5,9,2200050,3.1,2025-12-16
+28,Ocean Breeze Hotel,Bali,4,3,6,9,1334346,3.0,2025-09-04
+29,Sunset Beach Resort,Jakarta,4,3,7,9,1798435,3.1,2025-11-10
+30,Ocean Breeze Hotel,Jakarta,6,9,10,6,2434028,3.5,2025-05-28
+31,Ocean Breeze Hotel,Jakarta,4,7,6,6,1373832,2.9,2025-07-18
+32,Ocean Breeze Hotel,Yogyakarta,5,8,9,5,1701812,3.1,2025-05-04
+33,Mountain View Inn,Bali,5,9,5,9,1622221,3.4,2025-09-07
+34,Sunset Beach Resort,Bandung,10,3,10,6,3045201,4.0,2025-04-25
+35,City Express,Surabaya,6,3,10,8,1834715,3.5,2025-12-06
+36,Ocean Breeze Hotel,Bandung,10,10,8,7,2758231,4.3,2025-06-04
+37,Grand Luxury,Bali,9,3,6,8,2496873,3.7,2025-07-16
+38,Grand Luxury,Bandung,4,6,4,8,1331562,2.7,2025-07-20
+39,Grand Luxury,Bali,7,10,6,7,2713681,3.5,2025-11-02
+40,City Express,Yogyakarta,5,5,8,10,1961628,3.5,2025-04-29
+41,Mountain View Inn,Surabaya,4,3,8,5,1947635,2.7,2025-12-23
+42,Mountain View Inn,Bandung,7,8,8,7,2093054,3.6,2025-09-03
+43,Sunset Beach Resort,Bali,10,10,9,5,3107471,4.0,2025-09-04
+44,Grand Luxury,Surabaya,4,10,6,7,1600784,3.0,2025-02-09
+45,Ocean Breeze Hotel,Bali,10,9,9,8,3499978,4.4,2025-12-22
+46,Grand Luxury,Bandung,9,4,4,6,2717764,3.2,2025-03-23
+47,Ocean Breeze Hotel,Bali,8,7,8,9,2810144,4.2,2025-05-07
+48,Ocean Breeze Hotel,Surabaya,9,4,5,6,2503588,3.2,2025-09-01
+49,Grand Luxury,Surabaya,5,10,7,7,1642854,3.3,2025-03-23
+50,Mountain View Inn,Yogyakarta,7,3,5,7,2028278,3.0,2025-04-02
+51,Grand Luxury,Jakarta,6,3,5,7,1941551,3.0,2025-11-21
+52,Sunset Beach Resort,Yogyakarta,5,6,6,6,2059115,2.8,2025-12-23
+53,Mountain View Inn,Bandung,5,7,6,7,1991439,3.3,2025-03-22
+54,Sunset Beach Resort,Jakarta,7,4,8,8,2139378,3.5,2025-08-17
+55,Mountain View Inn,Surabaya,5,5,4,5,1885074,2.5,2025-07-22
+56,Grand Luxury,Bandung,5,5,8,9,2233748,3.4,2025-12-30
+57,Ocean Breeze Hotel,Bandung,8,4,9,6,2414838,3.6,2025-10-12
+58,City Express,Jakarta,5,3,7,7,2201742,2.9,2025-11-25
+59,Ocean Breeze Hotel,Yogyakarta,9,5,5,7,2631065,3.2,2025-08-27
+60,Sunset Beach Resort,Bandung,7,8,4,8,2650673,3.3,2025-12-26
+61,Grand Luxury,Bandung,7,3,10,5,2333621,3.2,2025-06-17
+62,Grand Luxury,Jakarta,4,10,7,7,1433918,3.2,2025-04-22
+63,Sunset Beach Resort,Surabaya,5,5,8,9,1749009,3.4,2025-10-25
+64,Grand Luxury,Bali,6,3,5,9,2134841,3.2,2025-11-01
+65,City Express,Bandung,8,8,9,6,2636168,3.9,2025-09-23
+66,Sunset Beach Resort,Yogyakarta,4,3,6,7,1405058,2.5,2025-06-19
+67,Sunset Beach Resort,Jakarta,9,7,4,7,3014825,3.3,2025-06-27
+68,Grand Luxury,Bali,5,3,8,5,1751340,2.8,2025-07-24
+69,Grand Luxury,Yogyakarta,6,4,7,8,2106123,3.4,2025-06-21
+70,Mountain View Inn,Jakarta,8,4,6,7,2773802,3.3,2025-02-07
+71,Mountain View Inn,Bali,5,3,5,8,1617247,2.6,2025-09-24
+72,Sunset Beach Resort,Surabaya,8,7,5,10,2598945,4.0,2025-08-26
+73,Grand Luxury,Bali,10,7,6,10,2865012,4.1,2025-04-13
+74,Ocean Breeze Hotel,Bandung,4,5,6,9,1968920,3.1,2025-07-27
+75,Grand Luxury,Bali,7,3,8,6,2086336,3.1,2025-02-13
+76,Mountain View Inn,Bali,7,5,7,9,2592758,3.6,2025-09-14
+77,Grand Luxury,Jakarta,8,3,7,6,2762153,3.3,2025-12-07
+78,Sunset Beach Resort,Bandung,8,10,9,5,2390764,3.7,2025-08-19
+79,Sunset Beach Resort,Bali,9,6,4,9,3209975,3.7,2025-01-04
+80,Sunset Beach Resort,Bandung,5,8,5,8,1536700,3.0,2025-11-19
+81,Sunset Beach Resort,Surabaya,10,6,7,9,3169160,4.0,2025-12-24
+82,City Express,Jakarta,5,8,6,6,1503461,3.0,2025-08-16
+83,Sunset Beach Resort,Bandung,8,4,10,5,2240019,3.3,2025-02-04
+84,Grand Luxury,Bali,9,9,10,7,3115380,4.1,2025-02-01
+85,Sunset Beach Resort,Surabaya,4,10,7,10,1485517,3.8,2025-02-27
+86,Mountain View Inn,Bandung,10,5,9,7,3160991,4.1,2025-05-02
+87,City Express,Surabaya,5,5,9,8,1896086,3.6,2025-05-09
+88,Grand Luxury,Surabaya,9,6,5,5,2641448,3.2,2025-06-17
+89,Ocean Breeze Hotel,Surabaya,6,4,10,8,1994060,3.6,2025-05-10
+90,Mountain View Inn,Bali,7,8,5,9,2668928,3.6,2025-01-10
+91,Ocean Breeze Hotel,Bali,6,6,4,8,2491978,3.1,2025-12-21
+92,Ocean Breeze Hotel,Surabaya,7,5,9,7,2214153,3.5,2025-09-26
+93,Grand Luxury,Jakarta,10,8,5,8,3244530,4.0,2025-05-09
+94,Sunset Beach Resort,Yogyakarta,4,7,5,10,1763390,3.2,2025-10-16
+95,City Express,Surabaya,4,4,10,7,1950164,3.1,2025-10-10
+96,Grand Luxury,Bali,7,4,5,5,2329872,2.6,2025-05-16
+97,Mountain View Inn,Jakarta,5,10,10,8,2108390,3.9,2025-04-11
+98,City Express,Surabaya,8,9,9,9,2871433,4.5,2025-11-13
+99,City Express,Bali,7,10,9,5,2206535,3.8,2025-07-07
+100,Mountain View Inn,Surabaya,7,4,4,7,2403431,2.9,2025-07-09
+101,Ocean Breeze Hotel,Surabaya,7,5,10,7,2088709,3.8,2025-12-10
+102,Ocean Breeze Hotel,Jakarta,6,5,8,9,2286166,3.8,2025-10-09
+103,Ocean Breeze Hotel,Yogyakarta,9,10,6,7,2994662,4.0,2025-10-06
+104,Grand Luxury,Yogyakarta,4,6,6,7,1847483,2.9,2025-04-26
+105,Mountain View Inn,Bandung,10,7,6,8,3093143,4.1,2025-08-26
+106,Grand Luxury,Surabaya,6,9,9,6,2143510,3.5,2025-03-27
+107,Ocean Breeze Hotel,Surabaya,9,9,7,7,2957606,4.0,2025-11-12
+108,Ocean Breeze Hotel,Yogyakarta,4,4,4,5,1301242,2.0,2025-04-24
+109,City Express,Bali,4,3,9,6,1260855,2.7,2025-05-21
+110,Mountain View Inn,Bandung,8,7,10,8,2276572,4.3,2025-01-18
+111,Sunset Beach Resort,Surabaya,8,3,7,6,2867884,3.4,2025-07-31
+112,Mountain View Inn,Yogyakarta,9,5,8,9,2498671,4.2,2025-11-09
+113,Sunset Beach Resort,Jakarta,9,5,8,7,2976329,3.8,2025-04-12
+114,City Express,Yogyakarta,9,6,5,5,2880517,3.1,2025-09-12
+115,Ocean Breeze Hotel,Bali,7,10,6,7,2262912,3.6,2025-03-27
+116,City Express,Bandung,6,10,8,7,2226604,3.7,2025-09-30
+117,Mountain View Inn,Bali,7,3,7,10,2023837,3.6,2025-01-05
+118,City Express,Yogyakarta,6,9,5,7,1728178,3.2,2025-01-09
+119,Ocean Breeze Hotel,Bandung,5,6,10,8,2074455,3.8,2025-10-22
+120,Sunset Beach Resort,Surabaya,8,4,6,9,2572056,3.6,2025-04-07
+121,Ocean Breeze Hotel,Bali,5,5,4,7,1497478,2.7,2025-06-17
+122,City Express,Jakarta,4,5,6,10,1811603,3.4,2025-04-23
+123,Ocean Breeze Hotel,Bali,7,9,4,10,2621291,3.6,2025-09-04
+124,Grand Luxury,Bandung,6,9,10,9,2256217,4.4,2025-11-10
+125,Mountain View Inn,Yogyakarta,5,10,9,8,2231904,3.9,2025-02-18
+126,Ocean Breeze Hotel,Bali,7,8,4,6,2592090,3.0,2025-08-17
+127,Mountain View Inn,Bandung,10,4,9,10,2747993,4.2,2025-02-17
+128,Sunset Beach Resort,Yogyakarta,10,9,9,5,2938497,3.9,2025-12-28
+129,Grand Luxury,Bandung,10,6,7,9,3490163,4.0,2025-06-21
+130,Ocean Breeze Hotel,Bandung,9,9,5,5,2702806,3.5,2025-01-19
+131,Ocean Breeze Hotel,Jakarta,8,5,10,8,2879481,3.8,2025-10-04
+132,Sunset Beach Resort,Bandung,6,8,9,5,2353574,3.3,2025-02-23
+133,Ocean Breeze Hotel,Yogyakarta,7,3,6,7,2208985,2.9,2025-02-15
+134,Ocean Breeze Hotel,Yogyakarta,4,9,9,9,1315273,3.8,2025-05-12
+135,Sunset Beach Resort,Yogyakarta,9,4,7,7,2816478,3.6,2025-11-01
+136,Mountain View Inn,Surabaya,6,8,9,9,2486661,4.0,2025-08-13
+137,Grand Luxury,Yogyakarta,10,5,5,5,3030202,3.2,2025-10-03
+138,Ocean Breeze Hotel,Bali,6,6,7,9,1817831,3.5,2025-09-29
+139,Ocean Breeze Hotel,Jakarta,6,9,9,6,2043751,3.5,2025-06-05
+140,City Express,Yogyakarta,9,5,4,7,2859754,3.3,2025-06-01
+141,Ocean Breeze Hotel,Surabaya,6,5,7,5,2203957,2.7,2025-02-14
+142,Ocean Breeze Hotel,Jakarta,4,3,6,7,1460993,2.6,2025-01-10
+143,Sunset Beach Resort,Bali,8,4,9,10,2610867,4.2,2025-08-15
+144,Sunset Beach Resort,Jakarta,9,3,6,7,2702065,3.2,2025-05-03
+145,Sunset Beach Resort,Surabaya,6,7,10,8,2430885,4.0,2025-02-03
+146,Grand Luxury,Bali,6,8,7,5,2190851,3.3,2025-07-31
+147,City Express,Surabaya,8,7,8,9,2967145,4.2,2025-09-19
+148,Ocean Breeze Hotel,Jakarta,9,8,5,5,2548744,3.2,2025-05-26
+149,Mountain View Inn,Surabaya,9,9,8,7,3217103,4.3,2025-05-18
+150,Mountain View Inn,Bali,8,8,9,6,2925873,3.9,2025-09-03
+151,Grand Luxury,Yogyakarta,10,6,5,7,3255627,3.6,2025-02-27
+152,City Express,Jakarta,4,9,5,5,1788858,2.8,2025-12-24
+153,Ocean Breeze Hotel,Yogyakarta,9,3,10,5,3235038,3.5,2025-02-28
+154,Sunset Beach Resort,Yogyakarta,5,4,5,10,2211115,3.2,2025-10-13
+155,Grand Luxury,Bandung,4,8,7,9,1745261,3.4,2025-12-05
+156,City Express,Jakarta,7,4,7,7,2660099,3.4,2025-06-28
+157,Sunset Beach Resort,Bali,9,4,7,5,2502952,3.3,2025-04-06
+158,Sunset Beach Resort,Surabaya,8,3,5,8,2820585,3.2,2025-05-22
+159,Grand Luxury,Bali,8,9,6,5,2667915,3.5,2025-02-17
+160,City Express,Jakarta,7,8,6,9,2109328,3.6,2025-09-21
+161,Ocean Breeze Hotel,Yogyakarta,8,7,6,8,2899987,3.6,2025-01-02
+162,Grand Luxury,Bandung,4,9,10,9,1526771,3.7,2025-05-15
+163,Mountain View Inn,Surabaya,4,8,4,10,1676822,3.2,2025-08-29
+164,Sunset Beach Resort,Bandung,4,4,7,5,1588373,2.4,2025-01-19
+165,Ocean Breeze Hotel,Bali,9,9,4,8,2476805,3.7,2025-05-24
+166,Mountain View Inn,Bali,5,7,7,6,1969416,3.0,2025-01-20
+167,Ocean Breeze Hotel,Bandung,9,6,5,10,2883094,3.8,2025-09-30
+168,Grand Luxury,Surabaya,10,8,5,7,2798898,3.8,2025-04-29
+169,City Express,Bandung,8,3,10,6,2912140,3.4,2025-11-14
+170,Mountain View Inn,Yogyakarta,6,3,7,10,1898505,3.7,2025-05-03
+171,Grand Luxury,Bandung,7,8,5,7,2207732,3.5,2025-08-20
+172,Mountain View Inn,Yogyakarta,7,8,4,8,2526064,3.2,2025-07-27
+173,Grand Luxury,Yogyakarta,6,4,7,9,2041738,3.6,2025-05-11
+174,Mountain View Inn,Bandung,5,5,4,5,1849862,2.3,2025-03-01
+175,Mountain View Inn,Bandung,7,6,9,5,2206999,3.3,2025-03-16
+176,Ocean Breeze Hotel,Jakarta,9,10,6,7,2634608,4.1,2025-09-29
+177,City Express,Bandung,5,7,10,5,1766961,3.2,2025-07-05
+178,Grand Luxury,Surabaya,5,8,8,7,1725307,3.4,2025-10-21
+179,City Express,Jakarta,7,4,10,5,2613577,3.2,2025-10-27
+180,Sunset Beach Resort,Surabaya,9,3,10,8,2997407,4.1,2025-10-11
+181,City Express,Bali,4,4,7,6,1647077,2.7,2025-05-02
+182,Ocean Breeze Hotel,Yogyakarta,5,3,9,7,1811832,3.0,2025-09-16
+183,Ocean Breeze Hotel,Yogyakarta,4,8,10,9,1883744,3.9,2025-09-24
+184,Ocean Breeze Hotel,Yogyakarta,4,9,5,8,1692867,3.0,2025-12-30
+185,City Express,Yogyakarta,9,8,6,5,2846412,3.4,2025-07-24
+186,Mountain View Inn,Bali,8,4,7,6,2475829,3.2,2025-02-17
+187,City Express,Surabaya,4,9,8,10,1740524,3.7,2025-03-30
+188,Ocean Breeze Hotel,Bali,6,9,9,5,1859228,3.4,2025-07-13
+189,Mountain View Inn,Bali,7,5,6,8,2418688,3.3,2025-07-27
+190,Mountain View Inn,Surabaya,8,10,7,5,2871748,3.8,2025-08-09
+191,Mountain View Inn,Surabaya,5,5,5,9,1634195,3.2,2025-02-03
+192,Ocean Breeze Hotel,Jakarta,4,7,7,10,1775840,3.5,2025-12-03
+193,Ocean Breeze Hotel,Surabaya,4,7,5,8,1591387,3.0,2025-05-03
+194,Mountain View Inn,Jakarta,7,8,5,8,2261277,3.3,2025-03-14
+195,Mountain View Inn,Yogyakarta,6,4,4,6,2246624,2.7,2025-09-11
+196,Ocean Breeze Hotel,Bali,9,8,8,5,3051688,3.6,2025-11-26
+197,Sunset Beach Resort,Bandung,6,4,5,9,2086590,3.0,2025-01-16
+198,Sunset Beach Resort,Jakarta,8,8,6,8,2398770,3.7,2025-06-21
+199,Sunset Beach Resort,Bali,7,6,7,5,2209369,3.3,2025-05-13
+200,Grand Luxury,Bandung,7,5,10,8,2411108,3.7,2025-07-13
+201,Grand Luxury,Yogyakarta,10,7,5,6,2986316,3.4,2025-03-17
+202,Grand Luxury,Yogyakarta,10,5,10,6,3166938,4.1,2025-08-27
+203,City Express,Jakarta,7,4,7,7,1972021,3.3,2025-09-05
+204,City Express,Yogyakarta,5,9,9,9,2179843,3.8,2025-02-05
+205,Sunset Beach Resort,Jakarta,4,5,8,5,1987761,2.8,2025-09-01
+206,Mountain View Inn,Jakarta,5,7,7,6,1552943,2.9,2025-12-02
+207,Sunset Beach Resort,Yogyakarta,7,10,6,6,2678273,3.5,2025-06-15
+208,Ocean Breeze Hotel,Bali,8,9,8,8,2601008,4.3,2025-12-29
+209,Mountain View Inn,Jakarta,4,6,5,10,1442622,3.2,2025-03-15
+210,Mountain View Inn,Bandung,4,4,4,5,1664445,2.2,2025-07-01
+211,Ocean Breeze Hotel,Bali,10,4,5,5,3153110,3.2,2025-10-08
+212,Mountain View Inn,Yogyakarta,9,3,8,8,2713834,3.6,2025-03-07
+213,Mountain View Inn,Bandung,8,9,9,10,2878080,4.6,2025-06-25
+214,City Express,Yogyakarta,4,5,7,8,1651220,3.0,2025-11-21
+215,Ocean Breeze Hotel,Yogyakarta,7,9,8,6,2329693,3.8,2025-03-14
+216,Grand Luxury,Bandung,8,4,6,9,2378452,3.4,2025-06-27
+217,City Express,Bandung,8,6,10,10,2951539,4.5,2025-05-15
+218,Grand Luxury,Jakarta,9,8,10,5,2850884,4.0,2025-05-01
+219,Grand Luxury,Bandung,4,4,9,10,1499452,3.7,2025-11-02
+220,Grand Luxury,Surabaya,8,6,5,7,2825388,3.4,2025-01-13
+221,Sunset Beach Resort,Jakarta,5,4,8,8,1576159,3.1,2025-07-13
+222,Mountain View Inn,Surabaya,5,10,5,5,1914802,2.8,2025-02-10
+223,Mountain View Inn,Jakarta,7,6,6,7,2528683,3.5,2025-04-03
+224,Grand Luxury,Jakarta,7,8,5,7,2209338,3.2,2025-05-29
+225,Grand Luxury,Bali,5,6,10,5,2041668,3.4,2025-12-07
+226,Sunset Beach Resort,Yogyakarta,4,9,7,9,1984760,3.4,2025-05-02
+227,Grand Luxury,Bandung,4,5,9,5,1881621,2.9,2025-12-05
+228,Mountain View Inn,Surabaya,6,10,10,5,2480433,3.6,2025-01-14
+229,Mountain View Inn,Yogyakarta,7,5,7,5,2572353,3.2,2025-02-11
+230,Mountain View Inn,Yogyakarta,6,7,7,10,2033753,3.9,2026-01-01
+231,Grand Luxury,Yogyakarta,6,8,4,5,1999058,2.6,2025-05-29
+232,Sunset Beach Resort,Bali,7,6,8,7,2005440,3.6,2025-07-06
+233,Mountain View Inn,Bali,9,6,6,8,2777317,3.8,2025-06-07
+234,Mountain View Inn,Bandung,4,5,8,5,1391286,2.8,2025-09-25
+235,Mountain View Inn,Bandung,6,3,6,6,2105515,3.0,2025-08-22
+236,Mountain View Inn,Yogyakarta,8,6,5,10,2833737,3.9,2025-10-08
+237,City Express,Jakarta,9,8,8,7,2730827,4.1,2025-03-11
+238,Mountain View Inn,Bali,6,7,10,8,2470225,4.0,2025-07-24
+239,City Express,Bali,7,10,6,10,2520157,3.9,2025-08-26
+240,Ocean Breeze Hotel,Jakarta,10,6,5,7,3048517,3.4,2025-05-11
+241,Grand Luxury,Jakarta,8,5,9,5,2448144,3.6,2025-11-22
+242,Mountain View Inn,Yogyakarta,6,9,10,9,2013239,4.3,2025-11-08
+243,Mountain View Inn,Jakarta,7,3,10,6,2689383,3.6,2025-01-19
+244,Ocean Breeze Hotel,Yogyakarta,6,3,9,10,1922115,3.6,2025-04-29
+245,Sunset Beach Resort,Yogyakarta,10,9,9,10,3106314,4.8,2025-09-23
+246,City Express,Surabaya,5,4,5,7,1484024,2.9,2025-07-03
+247,City Express,Surabaya,10,8,8,6,3269050,4.0,2025-06-06
+248,Sunset Beach Resort,Yogyakarta,8,9,8,10,2498525,4.3,2025-06-13
+249,Grand Luxury,Jakarta,4,4,10,5,1698736,2.7,2025-08-01
+250,Ocean Breeze Hotel,Yogyakarta,9,6,6,10,2870672,4.0,2025-03-25
+251,Sunset Beach Resort,Bandung,4,6,4,10,1312372,3.1,2025-07-20
+252,Ocean Breeze Hotel,Yogyakarta,8,9,4,10,2484055,3.8,2025-01-06
+253,Sunset Beach Resort,Yogyakarta,10,9,4,8,3128799,4.1,2025-11-23
+254,City Express,Surabaya,7,9,5,8,2068922,3.5,2025-11-05
+255,Mountain View Inn,Yogyakarta,10,9,5,7,2871720,3.9,2025-05-25
+256,Ocean Breeze Hotel,Bali,5,5,4,10,1481390,3.2,2025-05-07
+257,Sunset Beach Resort,Bandung,4,5,6,8,1236261,2.9,2025-05-07
+258,Grand Luxury,Bandung,10,6,9,5,2906388,3.7,2025-02-07
+259,Mountain View Inn,Jakarta,4,8,7,5,1561259,2.6,2025-10-04
+260,Ocean Breeze Hotel,Bandung,6,7,8,7,2053306,3.5,2025-08-23
+261,Ocean Breeze Hotel,Bandung,5,5,8,9,1546727,3.4,2025-09-08
+262,Mountain View Inn,Bandung,10,7,10,8,3393716,4.5,2025-03-30
+263,Sunset Beach Resort,Surabaya,5,6,10,10,1567725,3.8,2025-02-16
+264,Ocean Breeze Hotel,Bandung,8,4,10,5,2254946,3.6,2025-11-05
+265,Mountain View Inn,Bali,9,4,6,9,2853437,3.9,2025-05-03
+266,City Express,Yogyakarta,4,7,9,9,1953798,3.5,2025-01-14
+267,Ocean Breeze Hotel,Surabaya,9,10,9,8,2921113,4.2,2025-09-05
+268,Mountain View Inn,Bali,6,4,4,7,1711423,2.7,2025-11-26
+269,Ocean Breeze Hotel,Surabaya,9,4,6,8,2570371,3.6,2025-10-13
+270,Ocean Breeze Hotel,Jakarta,9,6,5,8,2569934,3.6,2025-10-17
+271,Sunset Beach Resort,Jakarta,4,8,10,8,1256636,3.8,2025-02-10
+272,Grand Luxury,Bali,9,7,4,6,2985228,3.2,2025-11-17
+273,Grand Luxury,Jakarta,5,9,4,10,1613835,3.3,2025-05-03
+274,Ocean Breeze Hotel,Jakarta,10,5,9,9,3310600,4.5,2025-06-01
+275,City Express,Bandung,5,7,8,7,1655765,3.3,2025-08-12
+276,City Express,Bandung,6,10,4,7,1733039,3.1,2025-08-11
+277,Sunset Beach Resort,Bandung,8,6,6,7,2406945,3.3,2025-01-11
+278,Grand Luxury,Bali,9,5,5,8,3087795,3.4,2025-06-20
+279,Ocean Breeze Hotel,Jakarta,7,7,4,5,2726709,2.7,2025-10-11
+280,Grand Luxury,Jakarta,8,7,4,9,2242860,3.6,2025-04-29
+281,Mountain View Inn,Bandung,8,3,8,10,2269738,3.8,2025-06-08
+282,Mountain View Inn,Jakarta,6,5,9,8,2253101,3.6,2025-12-02
+283,Mountain View Inn,Bandung,4,8,10,6,1934597,3.4,2025-09-04
+284,Grand Luxury,Bali,7,10,10,7,2200558,3.9,2025-05-16
+285,Mountain View Inn,Jakarta,6,5,8,6,2136536,3.3,2025-02-20
+286,Ocean Breeze Hotel,Jakarta,10,6,9,10,3147504,4.6,2025-11-08
+287,Sunset Beach Resort,Bali,6,4,6,6,1763981,2.7,2025-05-18
+288,Mountain View Inn,Bali,7,6,6,7,2545183,3.4,2025-11-24
+289,City Express,Yogyakarta,10,8,9,5,3277544,4.1,2025-05-07
+290,City Express,Jakarta,9,9,7,6,2488916,3.6,2025-09-12
+291,Grand Luxury,Jakarta,5,7,6,9,1539535,3.3,2025-09-28
+292,Mountain View Inn,Bali,4,3,5,7,1562269,2.7,2025-01-29
+293,Ocean Breeze Hotel,Bali,10,3,8,9,2704180,4.2,2025-07-11
+294,City Express,Bali,7,4,9,8,2291868,3.5,2025-06-29
+295,Mountain View Inn,Yogyakarta,7,3,5,5,2297813,2.8,2025-12-06
+296,Ocean Breeze Hotel,Surabaya,5,9,9,9,1993929,4.0,2025-10-18
+297,Ocean Breeze Hotel,Bandung,9,10,8,8,2993739,4.2,2025-01-27
+298,Ocean Breeze Hotel,Bali,9,3,6,5,2737934,3.1,2025-08-19
+299,Ocean Breeze Hotel,Yogyakarta,7,3,10,9,1980126,3.8,2025-11-08
+300,Ocean Breeze Hotel,Bali,9,10,8,8,2515469,4.5,2025-07-14
+301,Sunset Beach Resort,Yogyakarta,8,3,4,7,2469388,3.1,2025-04-05
+302,Ocean Breeze Hotel,Bali,10,6,8,7,2786709,3.9,2025-08-16
+303,City Express,Jakarta,6,3,5,7,2000815,2.9,2025-01-08
+304,City Express,Surabaya,7,7,7,8,2550787,3.7,2025-12-17
+305,Ocean Breeze Hotel,Bandung,5,6,6,7,2210943,2.9,2025-04-03
+306,Grand Luxury,Surabaya,4,10,5,7,1482311,2.9,2025-03-13
+307,Grand Luxury,Yogyakarta,10,7,9,10,2838396,4.7,2025-01-27
+308,City Express,Bandung,7,7,4,10,2456215,3.6,2025-06-03
+309,Mountain View Inn,Yogyakarta,7,5,9,6,2584406,3.5,2025-07-23
+310,City Express,Jakarta,8,4,5,7,2837206,3.2,2025-09-10
+311,Ocean Breeze Hotel,Bali,4,8,10,10,1728780,3.9,2025-05-14
+312,Mountain View Inn,Jakarta,9,4,10,9,3122783,4.4,2025-06-06
+313,City Express,Yogyakarta,9,9,5,10,2519173,4.2,2025-01-01
+314,City Express,Bandung,9,10,6,10,3216542,4.2,2025-01-28
+315,Grand Luxury,Bandung,10,10,10,7,3425292,4.7,2025-06-27
+316,Sunset Beach Resort,Yogyakarta,7,6,5,7,2415003,3.2,2025-03-07
+317,Ocean Breeze Hotel,Yogyakarta,5,6,4,7,1586722,2.7,2025-12-15
+318,City Express,Jakarta,8,3,5,6,2215625,3.0,2025-05-03
+319,City Express,Jakarta,5,4,7,5,1628982,2.5,2025-06-09
+320,Mountain View Inn,Yogyakarta,4,10,5,10,1545186,3.3,2025-10-19
+321,Grand Luxury,Surabaya,6,9,4,6,2224161,2.9,2025-04-12
+322,City Express,Bandung,4,9,10,8,1985161,3.8,2025-10-03
+323,Grand Luxury,Bali,7,9,8,7,2105616,3.6,2025-07-01
+324,Sunset Beach Resort,Jakarta,6,6,7,5,2415363,3.0,2025-03-10
+325,Sunset Beach Resort,Surabaya,9,10,4,5,3086225,3.4,2025-09-14
+326,City Express,Yogyakarta,6,7,8,5,2208247,3.2,2025-08-15
+327,Grand Luxury,Bali,7,7,8,7,2515905,3.7,2025-10-07
+328,City Express,Surabaya,7,4,8,7,2312782,3.5,2025-08-30
+329,City Express,Bali,5,5,4,9,2097366,3.1,2025-12-21
+330,Mountain View Inn,Yogyakarta,9,9,4,8,3045599,3.7,2025-03-22
+331,Mountain View Inn,Bandung,7,10,5,7,2424376,3.5,2025-07-14
+332,Sunset Beach Resort,Bali,9,8,10,9,2842643,4.5,2025-09-26
+333,Ocean Breeze Hotel,Surabaya,10,8,10,10,2749301,5.0,2025-10-06
+334,Grand Luxury,Bandung,9,7,9,10,2840836,4.3,2025-05-25
+335,Sunset Beach Resort,Bali,6,4,6,10,2281862,3.4,2025-12-16
+336,Grand Luxury,Bali,8,9,9,9,2335820,4.5,2025-10-14
+337,Ocean Breeze Hotel,Surabaya,4,7,8,6,1266962,3.2,2025-07-21
+338,Sunset Beach Resort,Yogyakarta,4,6,7,8,1409482,3.3,2025-10-05
+339,Sunset Beach Resort,Bali,9,10,6,6,2806834,3.8,2025-07-22
+340,Ocean Breeze Hotel,Bandung,5,9,8,9,1584416,3.8,2025-02-05
+341,Ocean Breeze Hotel,Bandung,8,3,6,6,2345292,3.1,2025-11-02
+342,City Express,Yogyakarta,9,9,7,8,2504255,4.0,2025-05-18
+343,Mountain View Inn,Surabaya,4,3,4,9,1650363,2.5,2025-02-03
+344,City Express,Bali,5,7,7,8,1623014,3.5,2025-08-13
+345,Grand Luxury,Bali,5,10,9,10,1622532,4.0,2025-04-08
+346,Ocean Breeze Hotel,Bandung,7,3,5,10,2525144,3.5,2025-06-18
+347,Ocean Breeze Hotel,Bandung,9,9,10,5,3194189,4.0,2025-01-15
+348,City Express,Bandung,10,5,4,9,3220272,3.7,2025-10-11
+349,Sunset Beach Resort,Bandung,6,8,5,10,2254691,3.5,2025-05-04
+350,Sunset Beach Resort,Bandung,8,4,8,6,2907995,3.4,2025-05-21
+351,Mountain View Inn,Bali,5,9,6,7,1797007,3.3,2025-08-10
+352,Ocean Breeze Hotel,Bali,10,4,6,10,3424647,4.0,2025-07-20
+353,Grand Luxury,Bandung,8,7,4,6,2681879,3.3,2025-06-06
+354,Grand Luxury,Bandung,5,7,4,9,1767137,3.2,2025-03-30
+355,Grand Luxury,Yogyakarta,8,3,10,8,2534810,3.8,2025-04-10
+356,Ocean Breeze Hotel,Jakarta,5,3,9,6,1801487,3.1,2025-09-24
+357,Grand Luxury,Bandung,8,10,8,10,2978510,4.6,2025-01-14
+358,Ocean Breeze Hotel,Surabaya,9,4,5,8,2594933,3.6,2025-05-13
+359,City Express,Surabaya,4,7,6,9,1942542,3.1,2025-05-09
+360,Mountain View Inn,Bali,4,7,6,5,1986385,2.5,2025-08-18
+361,City Express,Surabaya,6,10,5,10,1921493,4.0,2025-05-06
+362,Grand Luxury,Yogyakarta,8,5,7,7,2430577,3.6,2025-10-29
+363,Sunset Beach Resort,Bali,8,6,7,8,2504350,3.9,2025-06-08
+364,Sunset Beach Resort,Bandung,7,10,10,9,2467811,4.6,2025-02-01
+365,Ocean Breeze Hotel,Jakarta,8,9,10,10,2992576,4.8,2025-03-16
+366,Sunset Beach Resort,Jakarta,8,9,4,8,2864086,3.5,2025-10-17
+367,Grand Luxury,Surabaya,9,10,7,8,2588985,4.0,2025-02-12
+368,Grand Luxury,Yogyakarta,4,6,9,10,1359676,3.7,2025-11-17
+369,Mountain View Inn,Bandung,7,3,5,8,2413385,3.0,2025-08-01
+370,Grand Luxury,Bandung,9,10,10,7,2463012,4.3,2025-09-28
+371,Mountain View Inn,Jakarta,8,4,9,8,2397040,3.9,2025-11-18
+372,Grand Luxury,Yogyakarta,4,3,9,10,1432658,3.3,2025-07-28
+373,City Express,Yogyakarta,9,10,5,7,3211674,3.6,2025-04-02
+374,City Express,Bali,7,9,9,10,2190271,4.2,2025-07-11
+375,Sunset Beach Resort,Yogyakarta,10,7,8,5,3042249,3.6,2025-12-01
+376,Grand Luxury,Jakarta,9,7,4,6,3027729,3.3,2025-04-07
+377,Sunset Beach Resort,Jakarta,4,4,5,8,1659299,2.7,2025-12-17
+378,Mountain View Inn,Jakarta,6,5,7,5,2470666,3.1,2025-01-12
+379,City Express,Yogyakarta,9,5,5,9,3110024,3.7,2025-11-07
+380,Mountain View Inn,Yogyakarta,10,10,9,9,2887948,4.6,2025-02-01
+381,City Express,Jakarta,9,5,7,5,2584882,3.4,2025-08-07
+382,Mountain View Inn,Jakarta,6,5,4,10,2238381,3.3,2025-02-02
+383,Mountain View Inn,Jakarta,4,7,4,7,1439263,2.8,2025-03-04
+384,Sunset Beach Resort,Yogyakarta,10,5,9,8,3158257,4.0,2025-07-27
+385,Grand Luxury,Yogyakarta,9,7,7,7,3128023,4.0,2025-07-19
+386,City Express,Bandung,8,8,5,7,2236939,3.5,2025-03-19
+387,City Express,Bali,8,8,9,9,2441970,4.1,2025-12-26
+388,Mountain View Inn,Bandung,8,10,4,5,2484058,3.4,2025-11-01
+389,City Express,Bali,10,9,9,5,3054411,4.1,2025-10-30
+390,Ocean Breeze Hotel,Bandung,10,6,9,8,2839469,4.3,2025-09-17
+391,City Express,Bandung,7,4,5,10,2276069,3.6,2025-07-15
+392,City Express,Bandung,10,4,4,5,3454618,3.1,2025-09-04
+393,Ocean Breeze Hotel,Bandung,6,3,5,9,2240092,3.2,2025-08-13
+394,Grand Luxury,Bali,4,4,10,5,1734299,2.9,2025-02-13
+395,Sunset Beach Resort,Bandung,9,5,5,5,2546554,3.2,2025-03-21
+396,Mountain View Inn,Yogyakarta,5,9,4,9,2190491,3.4,2025-04-24
+397,City Express,Jakarta,5,6,7,6,1466207,2.8,2025-12-27
+398,Grand Luxury,Bandung,7,7,5,6,2383489,3.2,2025-09-23
+399,City Express,Surabaya,7,9,6,10,2341879,3.9,2025-10-11
+400,Grand Luxury,Yogyakarta,9,6,10,6,2601208,3.9,2025-10-15
+401,City Express,Yogyakarta,9,10,4,10,2638093,3.9,2025-11-25
+402,Sunset Beach Resort,Bali,6,9,4,10,1993308,3.6,2025-05-23
+403,Sunset Beach Resort,Bali,9,8,4,6,2616988,3.2,2025-11-15
+404,Sunset Beach Resort,Jakarta,5,8,5,8,2077623,3.1,2025-09-30
+405,City Express,Jakarta,7,4,10,5,2636368,3.5,2025-04-28
+406,Grand Luxury,Bali,6,8,5,9,2067125,3.6,2025-12-29
+407,Grand Luxury,Jakarta,4,9,5,7,1847346,3.0,2025-01-31
+408,Sunset Beach Resort,Jakarta,4,5,4,8,1433897,2.8,2025-08-17
+409,City Express,Yogyakarta,10,6,6,6,3045802,3.8,2025-01-02
+410,Mountain View Inn,Yogyakarta,7,8,8,6,2320463,3.6,2025-09-01
+411,Mountain View Inn,Jakarta,9,10,9,6,2803079,4.3,2025-04-23
+412,Mountain View Inn,Bali,10,10,7,7,3082355,4.2,2025-03-03
+413,City Express,Bandung,4,9,5,9,1641417,3.2,2025-11-22
+414,Grand Luxury,Surabaya,7,8,10,7,2147329,4.1,2025-05-09
+415,Ocean Breeze Hotel,Bali,9,7,9,8,2910658,4.2,2025-02-08
+416,Ocean Breeze Hotel,Jakarta,10,5,10,7,3214425,4.3,2025-06-05
+417,Mountain View Inn,Jakarta,10,8,5,9,3456446,3.9,2025-01-15
+418,Mountain View Inn,Surabaya,8,7,4,8,2320357,3.6,2025-08-26
+419,Ocean Breeze Hotel,Bandung,5,5,4,6,1752098,2.4,2025-01-15
+420,Mountain View Inn,Bandung,10,9,10,9,3100603,4.6,2025-09-19
+421,City Express,Jakarta,6,4,6,9,2181849,3.4,2025-10-21
+422,Sunset Beach Resort,Surabaya,10,9,5,8,2985173,4.0,2025-05-05
+423,Mountain View Inn,Bali,4,3,8,8,1282878,3.0,2025-12-04
+424,Sunset Beach Resort,Yogyakarta,7,6,6,7,2154586,3.4,2025-06-04
+425,Grand Luxury,Surabaya,10,3,8,5,2837944,3.6,2025-06-28
+426,Ocean Breeze Hotel,Surabaya,6,5,6,5,1855794,2.8,2025-05-18
+427,Grand Luxury,Surabaya,9,5,7,7,2544043,3.8,2025-07-05
+428,Ocean Breeze Hotel,Surabaya,5,8,7,6,1807556,3.0,2025-05-23
+429,Mountain View Inn,Bandung,4,4,10,9,1841262,3.6,2025-10-14
+430,Ocean Breeze Hotel,Surabaya,9,3,5,8,2632220,3.3,2025-10-12
+431,City Express,Bali,7,7,7,9,2670115,4.0,2025-06-01
+432,Mountain View Inn,Bali,8,10,10,6,2869412,4.1,2025-09-24
+433,Ocean Breeze Hotel,Bandung,9,6,9,8,2479105,4.0,2025-06-19
+434,Grand Luxury,Yogyakarta,5,10,9,10,1773249,4.2,2025-12-19
+435,Grand Luxury,Bali,5,5,7,9,1926085,3.2,2025-10-03
+436,Ocean Breeze Hotel,Yogyakarta,6,6,6,5,2127674,2.7,2025-01-02
+437,Mountain View Inn,Bali,8,10,5,9,2491967,4.0,2025-03-05
+438,Ocean Breeze Hotel,Yogyakarta,8,3,5,7,2474027,2.9,2025-02-17
+439,Mountain View Inn,Bali,9,7,5,9,2866817,3.8,2025-02-28
+440,Mountain View Inn,Bandung,6,4,6,5,2002276,2.6,2025-11-13
+441,Grand Luxury,Bandung,9,9,4,8,2729446,3.6,2025-06-13
+442,Mountain View Inn,Bali,10,7,5,6,3199391,3.4,2025-03-21
+443,City Express,Bali,9,9,9,6,2926037,3.9,2025-12-06
+444,City Express,Yogyakarta,9,5,10,10,3223150,4.3,2025-03-04
+445,Ocean Breeze Hotel,Yogyakarta,7,3,6,8,2575859,3.2,2025-06-25
+446,City Express,Bandung,4,6,4,10,1508465,2.9,2025-06-11
+447,City Express,Surabaya,7,5,6,8,2278249,3.2,2025-03-11
+448,Mountain View Inn,Surabaya,9,5,6,7,2908016,3.5,2025-10-18
+449,Mountain View Inn,Jakarta,4,10,8,7,1358063,3.3,2025-11-22
+450,Ocean Breeze Hotel,Yogyakarta,6,3,10,8,2369901,3.6,2025-06-30
+451,City Express,Jakarta,7,5,7,10,2097493,3.8,2025-10-24
+452,Mountain View Inn,Bandung,8,10,8,5,2741070,3.5,2025-05-26
+453,City Express,Surabaya,5,10,10,6,2202003,3.8,2025-09-15
+454,City Express,Bandung,5,7,8,10,1985778,3.8,2025-06-20
+455,City Express,Bandung,6,8,4,10,1913799,3.5,2025-01-30
+456,City Express,Yogyakarta,5,7,7,5,1568182,3.0,2025-03-16
+457,Ocean Breeze Hotel,Jakarta,7,8,5,6,2495728,3.4,2025-05-28
+458,City Express,Jakarta,6,3,7,9,2115177,3.5,2025-07-18
+459,Ocean Breeze Hotel,Bandung,8,6,6,7,2464839,3.3,2025-08-21
+460,Ocean Breeze Hotel,Surabaya,10,9,4,7,3343443,3.8,2025-10-15
+461,Ocean Breeze Hotel,Bali,9,3,6,9,2966655,3.9,2025-02-03
+462,Grand Luxury,Bali,8,4,4,7,2620532,2.9,2025-11-22
+463,Ocean Breeze Hotel,Surabaya,6,3,8,7,2089234,3.3,2025-12-07
+464,City Express,Jakarta,5,5,8,5,2105719,3.0,2025-06-04
+465,Grand Luxury,Yogyakarta,7,5,7,10,2349203,3.8,2025-02-17
+466,Mountain View Inn,Surabaya,9,3,9,5,3078117,3.3,2025-06-02
+467,Grand Luxury,Surabaya,4,3,5,8,1919991,2.8,2025-11-24
+468,Grand Luxury,Bali,4,8,10,7,1806882,3.4,2025-07-23
+469,Mountain View Inn,Bali,4,7,7,8,1622605,3.2,2025-11-12
+470,Mountain View Inn,Yogyakarta,6,7,5,8,1739958,3.4,2025-02-12
+471,Ocean Breeze Hotel,Jakarta,7,8,9,8,2617056,4.0,2025-01-03
+472,Mountain View Inn,Bandung,10,7,9,8,3074628,4.4,2025-06-20
+473,Ocean Breeze Hotel,Yogyakarta,8,5,5,10,2282190,3.6,2025-07-26
+474,Ocean Breeze Hotel,Jakarta,10,8,5,7,3342024,3.7,2025-04-29
+475,Ocean Breeze Hotel,Bandung,9,3,7,6,3133861,3.4,2025-01-06
+476,Grand Luxury,Yogyakarta,4,9,7,5,1342436,2.7,2025-01-07
+477,City Express,Jakarta,5,8,4,6,1818019,2.8,2025-04-11
+478,Sunset Beach Resort,Surabaya,4,7,10,10,1306997,4.0,2025-10-08
+479,Grand Luxury,Bali,6,7,5,5,2340023,3.0,2025-03-23
+480,Mountain View Inn,Surabaya,4,4,10,5,1236469,2.8,2025-08-03
+481,Grand Luxury,Yogyakarta,8,4,9,7,2208733,3.5,2025-07-19
+482,Sunset Beach Resort,Yogyakarta,7,9,9,7,2517362,4.1,2025-11-06
+483,Mountain View Inn,Surabaya,10,8,10,5,2811998,4.0,2025-04-07
+484,Mountain View Inn,Bali,5,6,8,10,1982187,3.6,2025-05-25
+485,Sunset Beach Resort,Surabaya,8,9,5,6,2907278,3.5,2025-09-04
+486,City Express,Jakarta,8,4,6,5,2579805,3.1,2025-05-27
+487,Mountain View Inn,Jakarta,5,5,9,9,1904042,3.7,2025-10-24
+488,Ocean Breeze Hotel,Bandung,10,10,10,5,3138878,4.3,2025-09-28
+489,Grand Luxury,Bandung,8,5,4,9,2564707,3.4,2025-08-20
+490,Sunset Beach Resort,Surabaya,4,6,6,7,1381721,3.0,2025-12-31
+491,City Express,Yogyakarta,6,8,4,9,1823928,3.4,2025-03-17
+492,Sunset Beach Resort,Surabaya,8,4,9,7,2634450,3.8,2025-07-20
+493,Mountain View Inn,Yogyakarta,7,3,7,7,2059505,3.0,2025-07-17
+494,Sunset Beach Resort,Jakarta,8,8,7,10,2203532,4.3,2025-04-25
+495,Mountain View Inn,Bali,10,4,8,9,3311653,4.1,2025-12-07
+496,City Express,Jakarta,9,7,9,10,2739221,4.4,2025-01-25
+497,City Express,Yogyakarta,4,7,9,7,1247586,3.3,2025-02-05
+498,Mountain View Inn,Surabaya,9,9,10,9,2780315,4.5,2025-02-27
+499,Sunset Beach Resort,Bandung,10,9,8,10,2718029,4.6,2025-05-29
+500,City Express,Bandung,5,7,8,5,2190514,2.9,2025-04-16
+501,Mountain View Inn,Surabaya,4,4,6,9,1501263,2.9,2025-12-15
+502,Grand Luxury,Bali,8,4,4,7,2651245,3.2,2025-04-09
+503,Grand Luxury,Yogyakarta,8,5,9,5,2445200,3.3,2025-03-21
+504,Mountain View Inn,Yogyakarta,4,7,4,7,1907946,2.8,2025-04-11
+505,Mountain View Inn,Yogyakarta,5,4,4,7,1505461,2.7,2025-06-06
+506,City Express,Bandung,4,9,7,6,1886638,2.9,2025-01-18
+507,Mountain View Inn,Surabaya,8,10,10,5,2807258,4.0,2025-08-10
+508,Grand Luxury,Bali,6,5,7,9,1771312,3.4,2025-10-11
+509,Grand Luxury,Yogyakarta,4,9,6,6,1535015,3.1,2025-06-01
+510,Mountain View Inn,Bandung,10,6,7,5,3205109,3.6,2025-12-14
+511,Ocean Breeze Hotel,Surabaya,6,7,6,10,2283879,3.8,2025-09-27
+512,Sunset Beach Resort,Bali,7,5,9,6,2075395,3.5,2025-11-19
+513,Sunset Beach Resort,Yogyakarta,8,7,10,7,2277820,4.2,2025-09-03
+514,Sunset Beach Resort,Bali,7,6,5,6,2430829,3.2,2025-04-04
+515,Grand Luxury,Bali,8,4,7,6,2950504,3.5,2025-06-01
+516,Grand Luxury,Jakarta,6,4,4,5,1872089,2.5,2025-04-23
+517,Sunset Beach Resort,Bandung,5,7,6,10,1592161,3.7,2025-12-15
+518,Grand Luxury,Bandung,4,9,5,10,1789002,3.6,2025-10-25
+519,Ocean Breeze Hotel,Yogyakarta,10,4,6,5,2951292,3.3,2025-02-14
+520,Sunset Beach Resort,Bali,8,6,5,9,2482893,3.7,2025-12-07
+521,Ocean Breeze Hotel,Bali,10,6,7,9,3177350,4.3,2025-05-12
+522,Mountain View Inn,Jakarta,7,3,10,10,2362557,3.9,2025-10-21
+523,City Express,Yogyakarta,9,6,5,9,3116863,3.7,2025-04-06
+524,Ocean Breeze Hotel,Bali,6,9,5,6,2294040,3.3,2025-11-25
+525,Ocean Breeze Hotel,Surabaya,9,10,4,10,3159466,4.0,2025-09-09
+526,Grand Luxury,Surabaya,10,5,5,6,3042411,3.3,2025-12-18
+527,Sunset Beach Resort,Jakarta,5,7,10,5,2136775,3.3,2025-03-21
+528,Ocean Breeze Hotel,Surabaya,9,6,6,5,2995947,3.3,2025-12-25
+529,Grand Luxury,Jakarta,8,4,5,8,2246559,3.2,2025-10-06
+530,Sunset Beach Resort,Yogyakarta,4,5,6,8,1763850,2.9,2025-10-16
+531,Mountain View Inn,Bali,9,10,7,6,2476995,3.9,2025-08-07
+532,Sunset Beach Resort,Jakarta,7,3,5,6,2291206,2.8,2025-02-26
+533,City Express,Jakarta,8,4,6,10,2523940,3.8,2025-02-25
+534,Mountain View Inn,Surabaya,10,6,10,10,2764112,4.5,2025-04-04
+535,City Express,Yogyakarta,10,5,10,7,3022300,4.3,2025-12-02
+536,City Express,Bandung,6,7,9,10,2326647,4.0,2025-02-17
+537,Sunset Beach Resort,Yogyakarta,6,7,9,7,2200862,3.5,2025-02-10
+538,Sunset Beach Resort,Yogyakarta,7,10,10,7,2476528,4.2,2025-04-12
+539,Mountain View Inn,Bali,9,8,9,9,3132645,4.2,2025-01-18
+540,City Express,Surabaya,7,8,4,9,2070332,3.5,2025-01-01
+541,City Express,Yogyakarta,10,7,5,5,3161689,3.3,2025-06-18
+542,Mountain View Inn,Bandung,4,10,8,8,1667738,3.5,2025-04-30
+543,Grand Luxury,Yogyakarta,8,10,4,10,2242199,3.9,2025-07-11
+544,City Express,Jakarta,4,3,9,9,1796766,3.4,2025-10-16
+545,Sunset Beach Resort,Bali,8,9,6,10,2548544,4.2,2025-02-13
+546,Sunset Beach Resort,Yogyakarta,7,5,9,9,2329417,3.9,2025-11-04
+547,City Express,Bandung,7,10,10,5,2646392,3.8,2025-03-25
+548,Mountain View Inn,Yogyakarta,6,10,5,9,2343855,3.5,2025-10-06
+549,Ocean Breeze Hotel,Surabaya,4,10,7,5,1659536,3.0,2025-06-26
+550,Ocean Breeze Hotel,Jakarta,6,10,7,10,1874050,4.2,2025-06-09
+551,Sunset Beach Resort,Surabaya,8,7,4,7,2811494,3.2,2025-11-20
+552,Mountain View Inn,Yogyakarta,7,9,4,7,2496322,3.2,2025-02-04
+553,Sunset Beach Resort,Jakarta,7,3,9,10,2381574,3.8,2025-01-04
+554,City Express,Bali,6,10,6,8,2307692,3.5,2025-08-24
+555,City Express,Bandung,10,6,7,5,2940543,3.5,2025-01-26
+556,Sunset Beach Resort,Surabaya,7,6,10,7,2365256,3.6,2025-08-06
+557,Mountain View Inn,Yogyakarta,9,8,7,7,2535078,3.8,2025-06-28
+558,Mountain View Inn,Surabaya,10,4,8,6,3305549,3.8,2025-08-15
+559,Ocean Breeze Hotel,Jakarta,10,10,5,8,3119969,4.1,2025-06-22
+560,Mountain View Inn,Yogyakarta,9,8,8,9,3217552,4.4,2025-03-16
+561,Mountain View Inn,Yogyakarta,10,10,7,8,3036691,4.5,2025-12-11
+562,City Express,Yogyakarta,10,3,6,6,3018289,3.4,2025-10-23
+563,Mountain View Inn,Bali,4,4,8,8,1548841,3.2,2025-09-07
+564,Ocean Breeze Hotel,Yogyakarta,4,6,10,9,1343260,3.5,2025-12-25
+565,Grand Luxury,Jakarta,6,8,8,9,2382189,3.8,2025-09-03
+566,Mountain View Inn,Bandung,8,6,7,10,2588865,4.1,2025-05-31
+567,Grand Luxury,Bali,10,4,6,8,2972762,3.6,2025-11-30
+568,Ocean Breeze Hotel,Surabaya,5,8,9,5,1824147,3.2,2025-10-27
+569,Grand Luxury,Bandung,6,3,7,7,1719916,3.1,2025-05-14
+570,Mountain View Inn,Yogyakarta,8,9,5,8,2818718,3.8,2025-05-31
+571,Mountain View Inn,Bandung,4,8,10,7,1210549,3.6,2025-11-17
+572,Grand Luxury,Bandung,6,5,5,5,1875558,2.6,2025-04-19
+573,Mountain View Inn,Surabaya,7,7,10,5,2442669,3.6,2025-07-12
+574,Ocean Breeze Hotel,Bandung,6,4,10,8,2331929,3.6,2025-04-28
+575,Ocean Breeze Hotel,Yogyakarta,9,10,4,7,3075201,3.8,2025-05-26
+576,City Express,Bandung,8,10,10,7,2788045,4.4,2025-02-01
+577,Ocean Breeze Hotel,Bandung,4,10,8,7,1564822,3.5,2025-09-06
+578,Sunset Beach Resort,Bandung,9,4,10,7,2626599,4.1,2025-12-15
+579,Ocean Breeze Hotel,Jakarta,8,6,4,7,2616675,3.3,2025-01-16
+580,Mountain View Inn,Jakarta,5,4,6,10,1697176,3.3,2025-10-06
+581,City Express,Bali,5,4,6,5,2185959,2.7,2025-01-24
+582,Sunset Beach Resort,Bandung,8,9,5,9,2426845,4.0,2025-01-30
+583,Mountain View Inn,Bandung,8,5,9,9,2863913,4.1,2025-07-09
+584,City Express,Bandung,4,6,9,8,1228552,3.6,2025-05-27
+585,Mountain View Inn,Bandung,10,6,7,7,2929445,3.8,2025-08-26
+586,Ocean Breeze Hotel,Bali,10,4,9,9,2894113,4.2,2025-05-05
+587,Mountain View Inn,Bandung,10,10,6,5,3123505,3.9,2025-10-01
+588,City Express,Bandung,6,5,6,6,1856793,2.9,2025-11-10
+589,Ocean Breeze Hotel,Yogyakarta,5,9,7,10,1557180,3.9,2025-04-17
+590,Mountain View Inn,Surabaya,4,7,7,10,1209940,3.7,2025-07-11
+591,Sunset Beach Resort,Jakarta,8,3,7,10,2801111,3.7,2025-12-16
+592,City Express,Jakarta,9,4,6,5,3011263,3.1,2025-04-07
+593,Sunset Beach Resort,Bandung,4,7,8,5,1549262,2.9,2025-11-14
+594,Ocean Breeze Hotel,Yogyakarta,9,3,10,5,2930708,3.5,2025-12-15
+595,Grand Luxury,Bandung,5,8,5,7,1788724,3.0,2025-09-07
+596,City Express,Surabaya,5,7,9,7,2091748,3.4,2025-01-03
+597,Ocean Breeze Hotel,Bandung,10,5,8,7,2747199,3.9,2025-01-28
+598,Sunset Beach Resort,Surabaya,10,9,10,9,3066773,4.6,2025-10-24
+599,Grand Luxury,Yogyakarta,8,8,5,5,2624866,3.2,2025-09-24
+600,Mountain View Inn,Surabaya,5,9,7,6,2111384,3.3,2025-12-30
+601,Mountain View Inn,Jakarta,7,5,4,9,2568456,3.2,2025-10-01
+602,Sunset Beach Resort,Yogyakarta,10,5,9,9,2773845,4.2,2025-04-03
+603,City Express,Yogyakarta,7,9,4,8,2078321,3.3,2025-04-30
+604,City Express,Surabaya,4,8,10,6,1791851,3.3,2025-11-24
+605,Mountain View Inn,Yogyakarta,7,3,10,7,2628837,3.7,2025-06-13
+606,Sunset Beach Resort,Bali,9,10,8,8,2588148,4.4,2025-01-18
+607,Grand Luxury,Bali,8,10,5,9,2289980,3.8,2025-03-11
+608,City Express,Jakarta,6,4,9,7,2185470,3.5,2025-11-15
+609,Sunset Beach Resort,Jakarta,6,7,7,8,2038508,3.6,2025-08-10
+610,Mountain View Inn,Surabaya,9,10,5,10,2846276,4.1,2025-05-30
+611,Sunset Beach Resort,Jakarta,9,9,6,6,3029867,3.6,2025-04-04
+612,City Express,Bali,5,10,8,5,2011835,3.4,2025-05-20
+613,Grand Luxury,Bandung,7,5,10,7,2359235,3.8,2025-01-03
+614,Sunset Beach Resort,Jakarta,5,9,7,9,2036558,3.6,2025-01-26
+615,Ocean Breeze Hotel,Bandung,6,9,10,8,1795460,3.9,2025-03-03
+616,Mountain View Inn,Surabaya,7,9,9,6,2723061,3.7,2025-12-31
+617,Ocean Breeze Hotel,Bandung,9,6,5,7,3226656,3.7,2025-10-10
+618,Grand Luxury,Yogyakarta,9,10,5,6,2515572,3.6,2025-02-03
+619,City Express,Bandung,6,8,5,9,2314164,3.5,2025-04-28
+620,Mountain View Inn,Yogyakarta,7,6,4,5,2483135,2.8,2025-11-12
+621,City Express,Yogyakarta,9,4,8,7,2966269,3.9,2025-10-08
+622,Mountain View Inn,Bali,9,4,8,8,3112787,3.8,2025-03-18
+623,City Express,Yogyakarta,10,9,10,10,2959575,4.9,2025-03-25
+624,City Express,Bali,8,7,6,7,2404343,3.7,2025-10-09
+625,City Express,Bandung,4,5,9,6,1907520,3.0,2025-03-14
+626,Ocean Breeze Hotel,Jakarta,5,5,8,7,2097719,3.3,2025-02-02
+627,Mountain View Inn,Bali,9,10,8,9,2945761,4.3,2025-01-18
+628,City Express,Yogyakarta,8,5,8,8,2973729,4.0,2025-01-14
+629,Grand Luxury,Bali,5,4,7,5,2043699,2.8,2025-12-07
+630,City Express,Bandung,7,10,4,8,2701669,3.3,2025-03-07
+631,City Express,Jakarta,8,8,7,5,2728833,3.2,2025-03-14
+632,Ocean Breeze Hotel,Bali,5,5,8,5,1457576,2.9,2025-12-14
+633,Mountain View Inn,Bali,6,4,6,8,2047390,3.3,2025-03-28
+634,Grand Luxury,Bandung,7,4,7,7,1972846,3.4,2025-02-16
+635,Ocean Breeze Hotel,Bandung,9,5,9,5,2531894,3.5,2025-11-28
+636,Grand Luxury,Bandung,10,10,6,5,3373319,3.9,2025-04-06
+637,Mountain View Inn,Bali,9,10,6,8,2860958,4.0,2025-03-04
+638,Mountain View Inn,Bali,4,3,4,5,1755581,2.1,2025-11-08
+639,City Express,Bali,9,7,9,7,3036797,3.9,2025-03-16
+640,Ocean Breeze Hotel,Surabaya,5,3,9,10,1645750,3.7,2025-10-05
+641,City Express,Bali,4,6,8,6,1384567,3.1,2025-02-21
+642,City Express,Yogyakarta,7,5,10,5,2657555,3.4,2025-02-07
+643,Mountain View Inn,Jakarta,9,6,8,7,2905627,3.8,2025-09-25
+644,Ocean Breeze Hotel,Surabaya,9,4,9,6,2680876,3.8,2025-02-20
+645,Mountain View Inn,Yogyakarta,10,3,4,6,3284523,3.3,2025-06-09
+646,City Express,Bandung,8,7,7,6,2862518,3.6,2025-12-02
+647,Ocean Breeze Hotel,Bandung,9,8,6,10,3160988,4.3,2025-09-14
+648,Grand Luxury,Yogyakarta,5,5,7,8,1852803,3.3,2025-09-15
+649,Mountain View Inn,Bandung,9,3,9,6,2948534,3.6,2025-02-13
+650,Ocean Breeze Hotel,Surabaya,5,4,10,7,1666326,3.3,2025-10-16
+651,Mountain View Inn,Jakarta,8,4,10,6,2355191,3.7,2025-02-16
+652,City Express,Yogyakarta,5,10,10,9,1724571,4.1,2025-02-03
+653,Ocean Breeze Hotel,Surabaya,7,7,6,9,1976188,3.5,2025-05-03
+654,Ocean Breeze Hotel,Bandung,10,5,4,6,2857651,3.2,2025-06-04
+655,Grand Luxury,Bandung,9,10,9,9,3045044,4.5,2025-04-28
+656,Sunset Beach Resort,Jakarta,4,3,5,10,1339855,3.1,2025-06-01
+657,City Express,Jakarta,6,7,6,6,2266242,3.0,2025-08-22
+658,Mountain View Inn,Bandung,4,5,4,7,1370465,2.7,2025-08-10
+659,City Express,Jakarta,5,7,5,6,1474964,2.9,2025-02-11
+660,City Express,Jakarta,8,6,6,5,2620943,3.3,2025-07-03
+661,City Express,Bali,5,7,9,5,1451814,3.2,2025-08-03
+662,Ocean Breeze Hotel,Surabaya,7,9,8,7,2022300,3.9,2025-04-28
+663,Grand Luxury,Bali,10,4,10,5,2920355,3.9,2025-03-18
+664,Ocean Breeze Hotel,Bali,8,9,10,7,2698393,4.0,2025-10-31
+665,Mountain View Inn,Surabaya,4,6,5,5,1657834,2.4,2025-10-02
+666,Mountain View Inn,Jakarta,9,8,9,6,2522499,4.1,2025-07-16
+667,Grand Luxury,Bandung,10,3,5,7,2968527,3.4,2025-08-13
+668,Sunset Beach Resort,Bandung,9,8,5,10,2579648,4.3,2025-11-01
+669,Grand Luxury,Bali,9,6,8,7,3156909,3.8,2025-08-20
+670,City Express,Surabaya,4,5,9,9,1584921,3.4,2025-01-15
+671,Sunset Beach Resort,Surabaya,4,9,4,9,1919264,3.0,2025-11-12
+672,Grand Luxury,Bali,8,10,8,9,2773100,4.2,2025-05-22
+673,Grand Luxury,Surabaya,7,10,5,7,2207456,3.3,2025-10-26
+674,City Express,Bandung,5,5,8,10,1694085,3.6,2025-10-28
+675,City Express,Bandung,6,5,9,5,2300719,3.3,2025-04-17
+676,City Express,Bali,9,8,4,10,3241107,3.9,2025-12-23
+677,City Express,Bali,9,8,8,8,2966910,4.0,2025-03-23
+678,Sunset Beach Resort,Bandung,6,8,5,9,1929381,3.4,2025-08-23
+679,Grand Luxury,Bandung,9,8,9,5,2848064,3.7,2025-09-15
+680,Ocean Breeze Hotel,Surabaya,4,3,7,8,1992156,2.8,2025-07-12
+681,Grand Luxury,Bandung,4,10,5,6,1794302,3.1,2025-07-04
+682,Mountain View Inn,Bali,6,6,8,9,2457504,3.9,2025-08-28
+683,Mountain View Inn,Bandung,8,4,9,5,2796192,3.5,2025-11-02
+684,Ocean Breeze Hotel,Bali,6,6,10,5,1852115,3.3,2025-03-26
+685,Mountain View Inn,Yogyakarta,8,7,9,9,2885038,4.2,2025-05-14
+686,City Express,Bali,6,7,10,6,1983799,3.7,2025-09-03
+687,Grand Luxury,Yogyakarta,6,7,8,9,2358568,3.6,2025-02-08
+688,City Express,Yogyakarta,4,7,6,6,1860861,2.9,2025-09-03
+689,Grand Luxury,Bali,4,9,6,6,1719627,2.8,2025-02-22
+690,Mountain View Inn,Yogyakarta,5,7,8,7,2067288,3.2,2025-12-24
+691,Sunset Beach Resort,Bandung,10,4,7,7,2749176,3.8,2025-08-30
+692,Sunset Beach Resort,Jakarta,4,5,8,8,1404295,3.1,2025-01-29
+693,Ocean Breeze Hotel,Jakarta,9,6,7,10,3016844,4.1,2025-01-06
+694,Ocean Breeze Hotel,Jakarta,6,5,9,6,2171036,3.1,2025-02-07
+695,Ocean Breeze Hotel,Jakarta,10,8,6,7,3386439,3.8,2025-11-11
+696,Sunset Beach Resort,Jakarta,4,8,8,6,1250105,3.1,2025-06-27
+697,Ocean Breeze Hotel,Jakarta,4,7,5,7,1517290,2.6,2025-10-11
+698,Sunset Beach Resort,Jakarta,9,3,9,6,2765100,3.5,2025-07-15
+699,Mountain View Inn,Bali,10,8,7,5,3083227,3.6,2025-09-09
+700,Sunset Beach Resort,Bali,6,5,4,9,2330478,3.2,2025-11-13
+701,City Express,Bali,8,3,10,6,2279159,3.8,2025-08-28
+702,City Express,Surabaya,5,4,6,10,1780367,3.4,2025-04-28
+703,Grand Luxury,Bali,8,3,4,7,2571831,3.0,2025-01-17
+704,Ocean Breeze Hotel,Bandung,7,7,4,5,2607462,2.8,2025-12-14
+705,City Express,Jakarta,5,7,4,9,1927482,2.9,2025-04-21
+706,Ocean Breeze Hotel,Jakarta,10,5,7,8,3353264,3.8,2025-06-29
+707,Sunset Beach Resort,Surabaya,10,8,10,8,3316754,4.5,2025-11-10
+708,Ocean Breeze Hotel,Surabaya,8,8,5,7,2341908,3.5,2025-11-09
+709,City Express,Bandung,9,7,4,10,2549689,3.9,2025-10-02
+710,City Express,Bali,9,6,10,8,2823659,4.4,2025-12-03
+711,Sunset Beach Resort,Yogyakarta,8,3,10,9,2705810,4.0,2025-08-22
+712,Sunset Beach Resort,Surabaya,9,3,7,5,3033086,3.4,2025-12-21
+713,Grand Luxury,Surabaya,10,6,8,5,2825665,3.7,2025-02-18
+714,Sunset Beach Resort,Bandung,9,9,8,6,3110460,3.9,2025-12-19
+715,Grand Luxury,Surabaya,9,9,10,7,2936090,4.3,2025-10-23
+716,Grand Luxury,Bali,10,8,8,6,3300545,4.1,2025-08-13
+717,Ocean Breeze Hotel,Yogyakarta,5,9,4,9,1666313,3.5,2025-07-21
+718,City Express,Surabaya,8,9,9,6,2850339,3.9,2025-10-15
+719,Mountain View Inn,Bali,4,8,6,10,1963054,3.6,2025-02-10
+720,Mountain View Inn,Bandung,9,8,10,10,2591643,4.7,2025-01-17
+721,Sunset Beach Resort,Yogyakarta,5,6,6,10,1783056,3.3,2025-11-04
+722,Mountain View Inn,Surabaya,9,9,7,10,3067351,4.2,2025-06-13
+723,Sunset Beach Resort,Bali,4,4,10,10,1202669,3.5,2025-03-17
+724,Sunset Beach Resort,Bali,7,8,4,5,2657162,2.7,2025-05-02
+725,Mountain View Inn,Surabaya,9,10,9,10,3102191,4.9,2025-08-04
+726,Grand Luxury,Bandung,8,6,7,5,2618210,3.1,2025-03-13
+727,Sunset Beach Resort,Bali,5,4,5,7,1671148,2.6,2025-07-28
+728,Ocean Breeze Hotel,Surabaya,8,4,9,6,2251317,3.7,2025-12-21
+729,City Express,Jakarta,4,9,7,6,1271070,3.2,2025-09-25
+730,Sunset Beach Resort,Bandung,10,4,5,7,3281655,3.5,2025-05-14
+731,City Express,Yogyakarta,8,4,6,5,2896936,3.2,2025-05-08
+732,Mountain View Inn,Bandung,5,9,7,10,1678892,4.0,2025-02-12
+733,Grand Luxury,Yogyakarta,10,8,6,8,3453699,4.2,2025-11-08
+734,Grand Luxury,Bali,10,10,9,6,2789183,4.2,2025-09-09
+735,Mountain View Inn,Jakarta,8,7,8,5,2372593,3.6,2025-12-24
+736,City Express,Yogyakarta,7,5,4,7,2657965,3.0,2025-08-05
+737,Grand Luxury,Bali,4,7,7,5,1317092,2.8,2025-09-04
+738,City Express,Jakarta,4,7,7,6,1493212,2.7,2025-05-24
+739,Sunset Beach Resort,Yogyakarta,9,5,8,6,2630026,3.7,2025-08-30
+740,City Express,Yogyakarta,4,5,5,10,1250940,3.0,2025-05-25
+741,Ocean Breeze Hotel,Jakarta,8,7,9,5,2983925,3.5,2025-09-09
+742,Sunset Beach Resort,Surabaya,6,7,5,10,1706028,3.5,2025-09-09
+743,Ocean Breeze Hotel,Surabaya,4,5,7,7,1987725,3.0,2025-02-11
+744,Mountain View Inn,Yogyakarta,6,10,8,7,2370637,3.7,2025-01-08
+745,Grand Luxury,Bandung,10,5,6,7,3092281,3.8,2025-03-15
+746,Grand Luxury,Bali,10,10,9,6,3102230,4.4,2025-11-19
+747,City Express,Bali,6,6,4,6,2413517,2.6,2025-05-25
+748,Ocean Breeze Hotel,Bali,10,4,10,7,2806838,4.1,2025-04-25
+749,City Express,Surabaya,6,8,6,7,2100581,3.2,2025-11-02
+750,City Express,Yogyakarta,5,3,9,5,1510710,2.9,2025-01-03
+751,Mountain View Inn,Bandung,5,3,9,10,2231058,3.8,2025-04-17
+752,Grand Luxury,Bali,9,10,5,8,2457426,3.8,2025-04-20
+753,Sunset Beach Resort,Surabaya,7,5,4,7,2105981,3.1,2025-05-09
+754,Ocean Breeze Hotel,Jakarta,4,10,8,5,1270603,3.0,2025-07-09
+755,Mountain View Inn,Jakarta,4,6,8,9,1436750,3.4,2025-09-06
+756,Mountain View Inn,Bandung,5,10,6,10,1995034,3.9,2025-04-10
+757,Ocean Breeze Hotel,Bali,4,5,4,9,1476283,2.8,2025-12-14
+758,Grand Luxury,Jakarta,5,7,9,5,1779552,3.2,2025-04-01
+759,City Express,Surabaya,8,6,10,8,2977821,4.2,2025-07-22
+760,Sunset Beach Resort,Jakarta,6,9,6,7,1756014,3.3,2025-09-04
+761,Sunset Beach Resort,Yogyakarta,4,9,5,6,1213345,2.8,2025-06-17
+762,City Express,Bandung,7,8,6,6,2565467,3.3,2025-10-11
+763,Sunset Beach Resort,Bali,8,9,9,6,2522589,3.7,2025-11-21
+764,City Express,Surabaya,6,3,7,9,1981380,3.3,2025-10-25
+765,Sunset Beach Resort,Surabaya,4,5,7,5,1510163,2.8,2025-03-01
+766,Ocean Breeze Hotel,Surabaya,7,4,4,7,2097609,2.8,2025-07-23
+767,Grand Luxury,Jakarta,6,5,9,5,1899766,3.3,2025-06-24
+768,Grand Luxury,Surabaya,8,3,8,7,2610001,3.6,2025-01-17
+769,City Express,Jakarta,7,6,9,10,2167843,4.1,2025-11-04
+770,City Express,Yogyakarta,8,10,10,8,2974252,4.4,2025-12-08
+771,Mountain View Inn,Bandung,9,10,6,10,2740216,4.3,2025-10-12
+772,Grand Luxury,Bali,5,8,8,5,1612061,3.3,2025-05-28
+773,Sunset Beach Resort,Yogyakarta,8,9,9,5,2423096,3.7,2025-12-12
+774,Grand Luxury,Jakarta,4,3,8,6,1942719,2.6,2025-07-04
+775,City Express,Surabaya,5,8,8,6,1683750,3.2,2025-12-24
+776,Grand Luxury,Yogyakarta,5,7,8,8,1853808,3.6,2025-12-25
+777,City Express,Bali,4,4,6,9,1507363,2.9,2025-12-22
+778,Sunset Beach Resort,Yogyakarta,7,3,5,8,2347389,3.3,2025-06-27
+779,City Express,Yogyakarta,8,5,8,8,2649473,3.8,2025-10-30
+780,Sunset Beach Resort,Surabaya,6,6,10,8,2413632,3.9,2025-10-16
+781,Grand Luxury,Bandung,6,5,4,8,2185328,3.2,2025-09-08
+782,Sunset Beach Resort,Yogyakarta,6,4,9,8,1779601,3.6,2025-06-18
+783,Mountain View Inn,Surabaya,4,5,10,6,1463198,3.3,2025-06-05
+784,Sunset Beach Resort,Bali,8,3,4,8,2328413,3.2,2025-07-20
+785,City Express,Yogyakarta,6,9,5,10,2213443,3.6,2025-08-16
+786,Mountain View Inn,Jakarta,8,6,7,5,2721474,3.2,2025-07-15
+787,Ocean Breeze Hotel,Surabaya,9,3,5,6,3216985,3.2,2025-06-05
+788,Sunset Beach Resort,Bandung,9,9,7,10,2944695,4.4,2025-01-27
+789,Ocean Breeze Hotel,Surabaya,5,6,4,9,1450823,3.0,2025-11-04
+790,Mountain View Inn,Bali,4,10,5,7,1268384,3.1,2025-06-18
+791,Ocean Breeze Hotel,Jakarta,5,3,8,7,1607996,2.9,2025-01-22
+792,City Express,Jakarta,4,3,8,9,1501339,3.1,2025-10-08
+793,City Express,Bali,8,4,10,7,2906983,4.0,2025-03-13
+794,Ocean Breeze Hotel,Yogyakarta,7,8,6,7,2603517,3.6,2025-09-23
+795,Mountain View Inn,Yogyakarta,4,8,6,5,1431549,2.8,2025-02-16
+796,Mountain View Inn,Jakarta,8,7,4,10,2549299,3.7,2025-09-10
+797,Ocean Breeze Hotel,Yogyakarta,5,9,9,6,1834359,3.3,2025-07-28
+798,Sunset Beach Resort,Surabaya,10,6,10,6,2778270,4.0,2025-07-25
+799,Sunset Beach Resort,Jakarta,7,9,9,9,2180116,4.2,2025-05-28
+800,Mountain View Inn,Bali,8,5,6,10,2919486,3.7,2025-04-07
+801,Ocean Breeze Hotel,Yogyakarta,8,10,4,9,2561845,3.6,2025-12-28
+802,Ocean Breeze Hotel,Bali,8,6,8,6,2224583,3.6,2025-12-24
+803,Mountain View Inn,Bandung,9,4,5,7,2968480,3.4,2025-06-19
+804,Mountain View Inn,Bandung,5,5,4,7,1566988,2.9,2025-03-17
+805,Grand Luxury,Bali,10,8,10,9,3417341,4.8,2025-12-09
+806,Mountain View Inn,Yogyakarta,4,7,4,8,1875840,2.7,2025-09-16
+807,Grand Luxury,Bali,6,7,4,7,1889767,2.9,2025-05-21
+808,City Express,Surabaya,4,4,4,10,1353762,2.9,2025-06-02
+809,Ocean Breeze Hotel,Bali,6,3,5,5,2412568,2.4,2025-11-15
+810,Ocean Breeze Hotel,Bandung,8,4,7,10,2824131,4.0,2025-12-19
+811,Ocean Breeze Hotel,Bandung,7,5,10,6,2644224,3.6,2025-12-30
+812,Sunset Beach Resort,Surabaya,10,3,7,10,3498174,3.9,2025-02-11
+813,Mountain View Inn,Bali,6,6,9,10,2471918,4.1,2025-05-01
+814,Grand Luxury,Bandung,4,4,4,7,1212819,2.4,2025-11-07
+815,Mountain View Inn,Yogyakarta,10,8,10,9,2899599,4.9,2025-06-25
+816,Sunset Beach Resort,Bandung,6,5,10,10,2212584,4.1,2025-01-11
+817,Sunset Beach Resort,Yogyakarta,7,9,7,5,2385884,3.4,2025-11-07
+818,Grand Luxury,Surabaya,10,10,6,6,2885282,3.7,2025-10-20
+819,Mountain View Inn,Bali,4,4,9,9,1667837,3.4,2025-09-13
+820,Mountain View Inn,Bandung,6,4,9,6,2165778,3.2,2025-10-19
+821,Sunset Beach Resort,Bali,7,8,8,8,1957203,3.9,2025-01-16
+822,City Express,Bandung,5,4,8,7,1546648,3.0,2025-02-18
+823,Ocean Breeze Hotel,Bali,4,4,9,7,1686194,3.3,2025-02-23
+824,Mountain View Inn,Bali,4,9,5,10,1319571,3.5,2025-11-28
+825,Ocean Breeze Hotel,Jakarta,4,8,7,8,1777147,3.1,2025-01-22
+826,Grand Luxury,Surabaya,4,7,9,10,1706880,3.8,2025-07-14
+827,Grand Luxury,Bandung,5,10,8,6,1558772,3.6,2025-07-08
+828,Grand Luxury,Surabaya,4,8,4,9,1622580,2.9,2025-07-22
+829,Sunset Beach Resort,Yogyakarta,4,5,7,9,1315718,3.1,2025-04-24
+830,Grand Luxury,Jakarta,7,4,8,7,2182536,3.6,2025-11-11
+831,City Express,Jakarta,6,3,7,8,2198144,3.3,2025-02-13
+832,Ocean Breeze Hotel,Yogyakarta,5,7,8,10,1914652,3.8,2025-06-17
+833,Mountain View Inn,Jakarta,7,5,5,5,2261231,2.6,2025-11-13
+834,Mountain View Inn,Surabaya,10,7,6,10,2921962,4.3,2025-08-22
+835,Sunset Beach Resort,Bali,6,10,10,7,1777881,4.0,2025-08-01
+836,Mountain View Inn,Surabaya,9,9,10,10,2467710,4.7,2025-01-11
+837,Grand Luxury,Bandung,10,9,4,10,3433823,4.3,2025-09-24
+838,Grand Luxury,Jakarta,9,4,10,10,3121236,4.4,2025-08-02
+839,City Express,Yogyakarta,9,6,9,8,2537403,4.0,2025-11-08
+840,Sunset Beach Resort,Bali,6,4,4,7,2161411,2.6,2025-02-22
+841,Grand Luxury,Surabaya,9,3,5,9,2572897,3.4,2025-06-27
+842,Ocean Breeze Hotel,Bandung,10,9,6,7,3204224,4.0,2025-12-25
+843,City Express,Bali,8,3,8,8,2605743,3.7,2025-09-24
+844,Ocean Breeze Hotel,Yogyakarta,8,7,8,7,2532927,3.8,2025-04-13
+845,City Express,Jakarta,4,8,10,7,1608908,3.4,2025-12-23
+846,Grand Luxury,Bandung,7,7,9,6,2083142,3.5,2025-05-26
+847,Grand Luxury,Bandung,9,7,6,6,3192374,3.7,2025-03-06
+848,Sunset Beach Resort,Bali,10,4,9,6,2869933,3.9,2025-09-05
+849,Mountain View Inn,Bandung,4,7,5,9,1556804,2.9,2025-04-06
+850,Ocean Breeze Hotel,Bandung,10,4,9,8,2969046,4.2,2025-04-13
+851,City Express,Yogyakarta,10,5,7,5,2822129,3.6,2025-02-09
+852,Grand Luxury,Yogyakarta,8,7,9,7,2306127,3.9,2025-09-14
+853,Ocean Breeze Hotel,Jakarta,10,8,4,7,3004598,3.8,2025-03-21
+854,Sunset Beach Resort,Yogyakarta,4,10,6,10,1467053,3.4,2025-07-13
+855,Grand Luxury,Surabaya,7,7,8,9,2453801,3.8,2025-08-14
+856,Ocean Breeze Hotel,Yogyakarta,9,8,8,8,2490013,4.2,2025-03-21
+857,City Express,Yogyakarta,9,3,7,10,2899431,3.9,2025-05-03
+858,Mountain View Inn,Jakarta,5,5,6,6,1938324,2.9,2025-04-12
+859,Mountain View Inn,Surabaya,7,9,7,9,1992375,3.9,2025-10-12
+860,Sunset Beach Resort,Yogyakarta,4,6,4,8,1908277,2.7,2025-04-28
+861,Mountain View Inn,Yogyakarta,10,7,7,5,3049353,3.7,2025-10-29
+862,Mountain View Inn,Jakarta,10,6,5,8,2836224,3.7,2025-07-28
+863,Ocean Breeze Hotel,Jakarta,7,9,5,8,2535699,3.5,2025-04-12
+864,Mountain View Inn,Bali,5,10,4,8,1450322,3.4,2025-03-25
+865,Grand Luxury,Jakarta,9,9,5,10,2571319,4.2,2025-06-09
+866,City Express,Bali,5,9,10,9,2175440,4.2,2025-12-29
+867,Ocean Breeze Hotel,Bali,7,10,8,10,2634069,4.4,2025-01-30
+868,Ocean Breeze Hotel,Bali,8,10,10,8,2889327,4.5,2025-01-03
+869,City Express,Jakarta,8,9,4,5,2757703,3.1,2025-05-04
+870,Sunset Beach Resort,Jakarta,5,7,7,9,1678829,3.4,2025-03-22
+871,City Express,Bali,7,10,7,10,2059549,4.2,2025-08-05
+872,Grand Luxury,Surabaya,6,8,4,5,2469433,2.9,2025-04-16
+873,Ocean Breeze Hotel,Bali,5,3,10,8,1687016,3.5,2025-07-31
+874,City Express,Bandung,10,10,8,10,2783798,4.6,2025-08-12
+875,Grand Luxury,Bali,8,6,9,9,2526631,4.2,2025-12-18
+876,Sunset Beach Resort,Bandung,9,6,5,7,2860708,3.6,2025-05-06
+877,Mountain View Inn,Yogyakarta,10,6,9,7,2927260,4.2,2025-04-23
+878,Ocean Breeze Hotel,Yogyakarta,8,6,10,10,2957107,4.4,2025-04-13
+879,Mountain View Inn,Yogyakarta,4,6,10,6,1679748,3.0,2025-02-28
+880,Grand Luxury,Yogyakarta,9,7,8,6,2492517,3.7,2025-08-20
+881,Mountain View Inn,Yogyakarta,9,6,9,5,2597952,3.5,2025-05-13
+882,City Express,Bandung,10,3,4,10,2883838,3.9,2025-02-13
+883,Grand Luxury,Jakarta,8,3,8,9,2317671,3.8,2025-11-17
+884,Grand Luxury,Jakarta,8,3,10,5,2946900,3.6,2025-08-11
+885,Sunset Beach Resort,Surabaya,7,6,8,10,2026413,4.0,2025-07-02
+886,Grand Luxury,Surabaya,10,7,8,9,2736957,4.4,2025-05-09
+887,Ocean Breeze Hotel,Bandung,4,5,7,8,1816184,2.9,2025-03-17
+888,City Express,Bali,7,4,7,9,2550592,3.6,2025-12-07
+889,Ocean Breeze Hotel,Surabaya,9,5,4,9,3127427,3.7,2025-06-08
+890,Grand Luxury,Bali,6,9,9,9,1924621,4.0,2025-10-11
+891,Grand Luxury,Bandung,9,6,7,5,2734547,3.6,2025-06-03
+892,City Express,Jakarta,7,10,9,6,2607582,3.8,2025-11-11
+893,Ocean Breeze Hotel,Yogyakarta,4,3,5,10,1227238,2.8,2025-06-01
+894,Sunset Beach Resort,Surabaya,10,3,9,10,2830047,4.3,2025-08-26
+895,Grand Luxury,Surabaya,9,9,7,6,3042799,3.7,2025-05-24
+896,Mountain View Inn,Bali,4,4,4,6,1910912,2.2,2025-06-28
+897,Grand Luxury,Surabaya,5,9,9,6,1487459,3.5,2025-12-28
+898,Ocean Breeze Hotel,Surabaya,9,6,6,6,2508393,3.4,2025-08-26
+899,Mountain View Inn,Surabaya,9,4,9,10,2835007,4.3,2025-09-14
+900,Grand Luxury,Bali,6,9,9,5,1761792,3.5,2025-09-20
+901,Grand Luxury,Jakarta,7,9,5,6,2709751,3.3,2025-08-26
+902,Sunset Beach Resort,Yogyakarta,8,4,8,7,2579270,3.6,2025-02-03
+903,Ocean Breeze Hotel,Surabaya,7,3,6,6,2727307,3.1,2025-10-25
+904,Ocean Breeze Hotel,Bali,9,5,4,10,3146022,3.7,2025-07-13
+905,Ocean Breeze Hotel,Surabaya,7,6,7,5,2536078,3.1,2025-08-14
+906,Mountain View Inn,Jakarta,8,7,8,5,2803849,3.3,2025-01-06
+907,Sunset Beach Resort,Yogyakarta,7,9,6,9,2159250,3.7,2025-02-25
+908,Mountain View Inn,Jakarta,4,10,4,8,1486696,3.1,2025-01-22
+909,Mountain View Inn,Bali,8,9,4,9,2201714,3.8,2025-04-25
+910,City Express,Jakarta,7,10,10,7,2702374,4.2,2025-02-28
+911,Ocean Breeze Hotel,Yogyakarta,8,10,5,8,2597393,3.6,2025-06-11
+912,Ocean Breeze Hotel,Yogyakarta,6,9,10,7,1937377,3.9,2025-01-28
+913,Sunset Beach Resort,Yogyakarta,10,8,9,6,3002340,4.3,2025-01-18
+914,City Express,Yogyakarta,9,6,6,9,2541596,3.9,2025-05-09
+915,Sunset Beach Resort,Bali,10,8,10,6,2865440,4.3,2025-04-07
+916,Sunset Beach Resort,Bandung,7,9,5,8,2518617,3.7,2025-06-07
+917,Sunset Beach Resort,Yogyakarta,9,7,4,9,2493673,3.6,2025-04-24
+918,Mountain View Inn,Surabaya,6,6,9,7,2432908,3.7,2025-11-22
+919,City Express,Yogyakarta,5,5,7,10,1805750,3.3,2025-05-30
+920,City Express,Bali,10,5,5,6,2901324,3.5,2025-05-08
+921,Ocean Breeze Hotel,Bandung,8,9,10,6,2461695,4.1,2025-07-11
+922,Grand Luxury,Jakarta,7,7,6,6,2116460,3.2,2025-11-21
+923,Mountain View Inn,Bandung,6,3,10,6,1958417,3.3,2025-12-29
+924,Sunset Beach Resort,Jakarta,9,5,4,9,2904571,3.5,2025-03-17
+925,Sunset Beach Resort,Bandung,6,4,8,7,1925990,3.4,2025-04-01
+926,Sunset Beach Resort,Jakarta,8,9,7,9,2563354,3.9,2025-07-08
+927,Ocean Breeze Hotel,Bandung,7,5,7,10,2669458,3.8,2025-03-20
+928,Ocean Breeze Hotel,Yogyakarta,4,4,7,7,1351875,3.0,2025-06-07
+929,Grand Luxury,Surabaya,7,8,6,5,2163495,3.2,2025-05-01
+930,Sunset Beach Resort,Surabaya,5,4,7,9,1901158,3.2,2025-03-03
+931,Sunset Beach Resort,Bandung,5,3,8,7,1628137,3.1,2025-07-03
+932,City Express,Bandung,7,4,5,6,2357697,3.0,2025-01-01
+933,Mountain View Inn,Bandung,10,10,9,8,2845883,4.7,2025-12-09
+934,Sunset Beach Resort,Jakarta,9,4,5,6,3001146,3.0,2025-03-05
+935,Grand Luxury,Jakarta,9,8,8,9,3012433,4.1,2025-01-14
+936,Sunset Beach Resort,Yogyakarta,6,8,4,10,1839967,3.4,2025-07-02
+937,Ocean Breeze Hotel,Surabaya,9,4,7,10,3129120,4.1,2025-03-08
+938,Grand Luxury,Bali,4,3,6,9,1200404,3.1,2025-09-10
+939,Mountain View Inn,Jakarta,6,5,9,6,2406688,3.3,2025-10-04
+940,Mountain View Inn,Bandung,5,9,8,5,1927146,3.3,2025-03-23
+941,City Express,Bali,8,6,10,9,2327688,4.2,2025-09-25
+942,Ocean Breeze Hotel,Surabaya,5,4,5,5,2165439,2.3,2025-12-07
+943,Grand Luxury,Bali,10,9,8,6,2981592,4.1,2025-09-05
+944,Sunset Beach Resort,Bandung,8,9,9,9,2959055,4.2,2025-02-03
+945,Sunset Beach Resort,Bali,6,5,9,5,2304264,3.1,2025-04-09
+946,Mountain View Inn,Jakarta,6,8,5,10,2173158,3.7,2025-10-06
+947,Ocean Breeze Hotel,Jakarta,6,4,10,6,1970749,3.5,2025-06-25
+948,City Express,Bali,9,10,4,9,3062446,3.9,2025-09-11
+949,Ocean Breeze Hotel,Surabaya,7,7,5,7,2557590,3.3,2025-07-08
+950,Sunset Beach Resort,Surabaya,5,3,6,6,1663298,2.7,2025-06-10
+951,Ocean Breeze Hotel,Jakarta,10,5,5,8,2956931,3.6,2025-10-03
+952,Mountain View Inn,Jakarta,7,8,9,8,2735354,4.1,2025-12-27
+953,Sunset Beach Resort,Surabaya,7,5,7,10,1958064,3.9,2025-09-07
+954,Mountain View Inn,Surabaya,7,3,10,8,2137371,3.6,2025-04-09
+955,Ocean Breeze Hotel,Jakarta,4,8,9,7,1261635,3.6,2025-04-26
+956,Ocean Breeze Hotel,Yogyakarta,7,4,10,7,2720410,3.6,2025-05-07
+957,Ocean Breeze Hotel,Jakarta,9,6,8,9,3083358,4.2,2025-06-30
+958,Grand Luxury,Bandung,5,8,10,8,1594186,3.6,2025-08-30
+959,City Express,Bali,5,4,8,7,2088546,3.0,2025-01-17
+960,Sunset Beach Resort,Bandung,10,7,8,10,3151359,4.6,2025-04-04
+961,Mountain View Inn,Bandung,5,7,8,10,2144005,3.6,2025-01-25
+962,Grand Luxury,Surabaya,6,4,4,5,1982558,2.5,2025-10-26
+963,Mountain View Inn,Surabaya,7,4,10,8,2519775,3.6,2025-10-04
+964,Ocean Breeze Hotel,Jakarta,8,4,6,10,2667636,3.7,2025-03-03
+965,Sunset Beach Resort,Bali,5,9,10,6,1841809,3.5,2025-12-24
+966,Grand Luxury,Jakarta,4,6,5,5,1297137,2.3,2025-09-05
+967,Mountain View Inn,Surabaya,7,6,5,5,2151675,3.0,2025-09-25
+968,Mountain View Inn,Yogyakarta,5,10,9,6,1455013,3.5,2025-12-11
+969,Mountain View Inn,Jakarta,4,3,5,6,1721074,2.5,2025-04-23
+970,Sunset Beach Resort,Surabaya,8,5,10,6,2963731,3.6,2025-06-22
+971,Grand Luxury,Jakarta,10,6,4,5,2734511,3.4,2025-06-19
+972,Grand Luxury,Bandung,7,3,7,9,2288834,3.4,2025-12-02
+973,Ocean Breeze Hotel,Jakarta,4,10,5,7,1617119,3.0,2025-08-11
+974,City Express,Bali,6,8,6,10,2324002,3.8,2025-09-15
+975,Sunset Beach Resort,Bandung,4,10,10,7,1394969,3.8,2025-10-28
+976,Ocean Breeze Hotel,Jakarta,8,8,7,10,2365494,4.0,2025-11-02
+977,Mountain View Inn,Surabaya,7,5,6,9,2454183,3.5,2025-08-03
+978,Ocean Breeze Hotel,Bandung,7,9,4,6,2357368,2.9,2025-10-30
+979,Sunset Beach Resort,Surabaya,7,3,9,7,2340071,3.5,2025-06-11
+980,Ocean Breeze Hotel,Jakarta,5,8,4,8,2158299,2.9,2025-09-26
+981,Ocean Breeze Hotel,Surabaya,9,10,4,5,2492993,3.5,2025-08-29
+982,Grand Luxury,Bali,10,5,10,9,2895437,4.4,2025-10-03
+983,Mountain View Inn,Surabaya,6,10,10,8,2377118,4.1,2025-11-28
+984,Mountain View Inn,Bali,6,6,7,5,1892522,2.8,2025-05-12
+985,Sunset Beach Resort,Bandung,6,4,8,9,2047709,3.6,2025-04-17
+986,Sunset Beach Resort,Jakarta,10,10,5,7,2810357,4.0,2025-11-11
+987,Mountain View Inn,Yogyakarta,10,9,7,10,2757449,4.4,2025-08-10
+988,Ocean Breeze Hotel,Yogyakarta,6,4,10,8,1826433,3.5,2025-08-04
+989,Mountain View Inn,Bandung,5,7,6,7,1968089,3.0,2025-12-02
+990,Ocean Breeze Hotel,Surabaya,4,3,8,8,1234784,2.9,2025-10-21
+991,Sunset Beach Resort,Bali,7,5,4,8,2423773,3.3,2025-11-30
+992,Mountain View Inn,Bandung,5,9,6,10,2222484,3.6,2025-12-09
+993,Ocean Breeze Hotel,Yogyakarta,8,7,5,7,2865903,3.3,2025-12-12
+994,Sunset Beach Resort,Yogyakarta,5,6,4,8,1849433,3.0,2025-04-29
+995,Ocean Breeze Hotel,Yogyakarta,4,8,4,5,1334318,2.5,2025-09-17
+996,City Express,Bali,5,10,7,8,2176128,3.5,2025-07-15
+997,Grand Luxury,Bandung,10,7,9,6,3025139,4.0,2025-11-17
+998,Mountain View Inn,Bandung,4,10,10,8,1382027,3.9,2025-10-28
+999,Grand Luxury,Bandung,7,3,8,8,2408792,3.4,2025-05-23
+1000,Grand Luxury,Bandung,7,4,9,9,2105103,4.0,2025-09-07
+1001,City Express,Yogyakarta,8,9,8,7,2405540,3.8,2025-10-04
+1002,Mountain View Inn,Yogyakarta,8,3,5,6,2706069,2.9,2025-02-15
+1003,Grand Luxury,Surabaya,8,3,9,6,2299402,3.4,2025-12-03
+1004,Ocean Breeze Hotel,Jakarta,4,4,4,8,1753539,2.7,2025-03-20
+1005,Grand Luxury,Bali,8,5,5,9,2380302,3.7,2025-05-23
+1006,Ocean Breeze Hotel,Jakarta,5,6,8,7,2207339,3.3,2025-08-09
+1007,City Express,Bali,6,3,8,7,1880192,3.2,2025-03-20
+1008,Mountain View Inn,Bandung,9,4,10,8,2646031,4.0,2025-01-25
+1009,Grand Luxury,Yogyakarta,7,3,10,10,2337845,4.1,2025-04-09
+1010,Grand Luxury,Jakarta,4,4,9,6,1879624,2.8,2025-12-11
+1011,City Express,Jakarta,10,9,4,5,2786557,3.3,2025-03-22
+1012,Sunset Beach Resort,Bandung,10,4,10,6,2726774,3.8,2025-01-29
+1013,Grand Luxury,Yogyakarta,9,8,4,8,2866086,3.5,2025-02-28
+1014,Sunset Beach Resort,Surabaya,10,7,4,9,2980006,4.0,2025-01-28
+1015,Mountain View Inn,Yogyakarta,10,8,7,8,3312785,4.4,2025-10-09
+1016,Sunset Beach Resort,Surabaya,5,5,4,6,2024673,2.7,2025-01-29
+1017,Sunset Beach Resort,Bali,7,4,5,10,2017284,3.4,2025-02-28
+1018,Grand Luxury,Jakarta,6,8,9,10,2222878,4.2,2025-12-11
+1019,Ocean Breeze Hotel,Jakarta,9,6,5,5,2487442,3.1,2025-01-15
+1020,Grand Luxury,Yogyakarta,8,9,7,9,2497121,4.2,2025-12-12
+1021,City Express,Jakarta,10,5,4,9,3336066,3.6,2025-02-04
+1022,Mountain View Inn,Bandung,8,7,8,10,2898373,4.1,2025-01-13
+1023,City Express,Surabaya,4,3,8,5,1396473,2.7,2025-07-29
+1024,Ocean Breeze Hotel,Surabaya,5,6,10,10,2079123,4.0,2025-03-16
+1025,Ocean Breeze Hotel,Yogyakarta,4,5,8,9,1767579,3.1,2026-01-01
+1026,City Express,Bandung,4,4,5,7,1411744,2.7,2025-03-20
+1027,Grand Luxury,Yogyakarta,4,10,8,8,1687610,3.4,2025-08-20
+1028,Ocean Breeze Hotel,Bali,8,3,10,5,2622431,3.3,2025-09-15
+1029,City Express,Jakarta,4,5,8,8,1887967,3.3,2025-02-07
+1030,Mountain View Inn,Bandung,8,3,5,8,2541485,3.4,2025-01-23
+1031,Mountain View Inn,Yogyakarta,8,9,7,6,2979950,3.6,2025-04-20
+1032,Ocean Breeze Hotel,Yogyakarta,8,3,10,6,2665193,3.6,2025-11-20
+1033,Grand Luxury,Yogyakarta,4,6,4,9,1248543,3.0,2025-10-15
+1034,Mountain View Inn,Bali,9,3,10,7,2829717,3.9,2025-10-20
+1035,Mountain View Inn,Bali,6,9,10,7,1738663,4.0,2025-10-19
+1036,Mountain View Inn,Bali,7,7,9,10,2569590,4.3,2025-07-05
+1037,City Express,Yogyakarta,10,6,9,7,2914463,4.3,2025-06-06
+1038,Sunset Beach Resort,Surabaya,4,8,7,9,1816923,3.3,2025-12-03
+1039,Sunset Beach Resort,Bandung,6,5,4,8,1731628,2.9,2025-08-01
+1040,Grand Luxury,Yogyakarta,5,9,5,10,1802032,3.5,2025-08-08
+1041,Sunset Beach Resort,Bali,5,3,7,6,1754084,2.7,2025-10-07
+1042,Sunset Beach Resort,Surabaya,10,3,10,10,2798669,4.4,2025-05-26
+1043,Sunset Beach Resort,Jakarta,7,9,6,5,2151352,3.3,2025-04-29
+1044,Mountain View Inn,Bali,10,10,7,5,3184446,3.8,2025-02-25
+1045,City Express,Jakarta,10,10,7,10,2963865,4.5,2025-06-30
+1046,Ocean Breeze Hotel,Bandung,10,10,10,6,3192984,4.5,2025-05-22
+1047,Mountain View Inn,Yogyakarta,6,8,8,9,2234590,3.8,2025-06-04
+1048,Sunset Beach Resort,Surabaya,9,10,5,6,2561976,3.7,2025-09-30
+1049,Sunset Beach Resort,Yogyakarta,8,10,7,6,2818233,3.7,2025-10-29
+1050,Grand Luxury,Bandung,7,10,8,6,2740660,3.7,2025-07-14
+1051,Mountain View Inn,Bali,10,7,8,6,3163279,4.0,2025-08-21
+1052,Sunset Beach Resort,Bali,7,5,5,10,2187436,3.4,2025-03-31
+1053,Mountain View Inn,Bandung,4,9,5,6,1385077,2.8,2025-06-08
+1054,City Express,Bandung,4,5,6,8,1999033,3.1,2025-09-27
+1055,Mountain View Inn,Jakarta,5,4,6,9,2167842,3.2,2025-06-16
+1056,Sunset Beach Resort,Surabaya,7,8,7,10,2692706,4.2,2025-07-07
+1057,Ocean Breeze Hotel,Bandung,9,3,7,8,2498514,3.5,2025-03-27
+1058,Mountain View Inn,Jakarta,7,7,4,9,2232940,3.2,2025-04-09
+1059,Ocean Breeze Hotel,Surabaya,10,7,8,8,3497020,4.4,2025-05-26
+1060,Mountain View Inn,Jakarta,7,7,4,7,2171883,3.1,2025-04-07
+1061,Sunset Beach Resort,Surabaya,10,8,7,5,3372858,3.5,2025-12-12
+1062,Grand Luxury,Bali,5,4,8,6,1897869,2.9,2025-07-13
+1063,Grand Luxury,Surabaya,6,6,4,6,1930552,2.8,2025-07-17
+1064,Sunset Beach Resort,Bali,4,7,9,5,1398295,3.0,2025-05-17
+1065,City Express,Yogyakarta,10,10,9,9,2800975,4.9,2025-01-08
+1066,Grand Luxury,Bandung,4,10,4,8,1321074,3.0,2025-03-20
+1067,City Express,Surabaya,9,9,7,7,3099412,4.1,2025-11-20
+1068,Sunset Beach Resort,Jakarta,9,9,4,6,2769440,3.4,2025-01-08
+1069,Ocean Breeze Hotel,Jakarta,8,5,7,9,2461137,3.8,2025-08-29
+1070,Ocean Breeze Hotel,Surabaya,9,9,6,7,3128846,3.8,2025-10-25
+1071,City Express,Surabaya,5,9,8,10,1828624,4.1,2025-07-07
+1072,Grand Luxury,Bali,10,4,6,9,3120792,3.7,2025-11-24
+1073,City Express,Bali,10,5,7,6,2841187,3.8,2025-01-06
+1074,City Express,Jakarta,8,9,8,8,2270225,4.3,2025-04-19
+1075,City Express,Yogyakarta,4,9,4,5,1949573,2.4,2025-03-12
+1076,City Express,Jakarta,7,4,8,5,2644864,3.2,2025-10-03
+1077,Ocean Breeze Hotel,Bali,8,10,6,5,2666164,3.3,2025-11-07
+1078,Mountain View Inn,Yogyakarta,4,7,7,10,1302692,3.3,2025-01-26
+1079,Ocean Breeze Hotel,Jakarta,10,10,7,10,3474810,4.5,2025-07-15
+1080,Sunset Beach Resort,Surabaya,9,9,5,10,2821062,4.0,2025-09-17
+1081,Mountain View Inn,Jakarta,6,10,8,6,1792103,3.5,2025-04-13
+1082,Sunset Beach Resort,Bandung,7,7,7,5,2744171,3.3,2025-08-30
+1083,Sunset Beach Resort,Yogyakarta,8,10,4,8,2344728,3.7,2025-02-06
+1084,Sunset Beach Resort,Yogyakarta,5,10,5,5,1585621,3.0,2025-06-01
+1085,City Express,Yogyakarta,6,7,5,6,2077760,2.9,2025-01-07
+1086,Sunset Beach Resort,Surabaya,5,9,5,10,1655557,3.7,2025-05-21
+1087,Mountain View Inn,Yogyakarta,4,4,4,9,1866521,2.7,2025-07-18
+1088,Mountain View Inn,Jakarta,9,10,4,9,2755063,4.1,2025-10-22
+1089,Ocean Breeze Hotel,Yogyakarta,8,5,10,5,2901578,3.5,2025-09-05
+1090,Grand Luxury,Bali,8,5,7,6,2505460,3.3,2025-08-02
+1091,City Express,Yogyakarta,5,9,9,6,1509800,3.5,2025-02-12
+1092,Sunset Beach Resort,Jakarta,6,9,9,6,2164653,3.6,2025-01-29
+1093,Grand Luxury,Surabaya,5,3,8,6,1963325,2.9,2025-06-28
+1094,Grand Luxury,Surabaya,8,10,10,10,2252628,4.9,2025-06-02
+1095,Ocean Breeze Hotel,Jakarta,8,8,9,10,2696116,4.5,2025-12-28
+1096,Grand Luxury,Bandung,6,10,8,10,2289574,4.0,2025-06-30
+1097,Sunset Beach Resort,Bali,6,7,8,8,2410938,3.5,2025-10-31
+1098,City Express,Bandung,6,4,10,10,2066506,3.8,2025-11-14
+1099,City Express,Jakarta,4,7,8,8,1865267,3.3,2025-01-28
+1100,Mountain View Inn,Bali,4,10,10,8,1749217,3.6,2025-03-10
+1101,Ocean Breeze Hotel,Surabaya,6,9,4,9,2229695,3.4,2025-05-18
+1102,Mountain View Inn,Bandung,9,5,9,10,2587694,4.5,2025-05-11
+1103,Ocean Breeze Hotel,Bali,10,3,6,8,3265435,3.7,2025-07-30
+1104,Sunset Beach Resort,Jakarta,4,8,6,8,1577859,3.2,2025-04-03
+1105,City Express,Yogyakarta,7,3,7,6,2393364,2.9,2025-08-02
+1106,Sunset Beach Resort,Bandung,7,9,7,8,2165111,3.9,2025-01-29
+1107,Sunset Beach Resort,Bali,5,9,4,6,1502770,3.0,2025-03-05
+1108,Mountain View Inn,Surabaya,5,8,5,10,2010587,3.5,2025-12-23
+1109,Grand Luxury,Surabaya,9,7,7,8,2703421,4.1,2025-02-19
+1110,Grand Luxury,Jakarta,4,5,5,6,1670058,2.5,2025-10-21
+1111,Ocean Breeze Hotel,Surabaya,10,4,7,6,3343303,3.5,2025-02-17
+1112,Grand Luxury,Bali,6,8,10,6,1852593,3.7,2025-03-19
+1113,City Express,Jakarta,10,3,8,5,2803078,3.3,2025-07-02
+1114,Grand Luxury,Bali,8,4,7,7,2980217,3.4,2025-05-10
+1115,Mountain View Inn,Jakarta,8,8,4,8,2653698,3.4,2025-01-16
+1116,Sunset Beach Resort,Jakarta,6,3,6,8,2279427,3.2,2025-02-28
+1117,Ocean Breeze Hotel,Bandung,10,7,6,5,2906203,3.7,2025-10-15
+1118,Sunset Beach Resort,Bali,8,3,8,9,2746572,3.9,2025-06-19
+1119,Ocean Breeze Hotel,Surabaya,9,8,5,10,2482525,4.2,2025-04-11
+1120,Sunset Beach Resort,Jakarta,6,5,8,9,2035963,3.8,2025-02-25
+1121,Mountain View Inn,Bali,8,5,9,8,2417079,3.9,2025-12-17
+1122,Mountain View Inn,Surabaya,4,5,8,6,1966214,3.0,2025-12-17
+1123,City Express,Yogyakarta,6,5,7,9,2075188,3.3,2025-04-20
+1124,Mountain View Inn,Surabaya,8,4,5,5,2541685,3.1,2025-10-27
+1125,Ocean Breeze Hotel,Jakarta,7,3,7,6,2068879,3.1,2025-10-22
+1126,Ocean Breeze Hotel,Yogyakarta,6,3,10,8,2489497,3.5,2025-10-24
+1127,Mountain View Inn,Yogyakarta,6,9,7,10,2170811,4.1,2025-01-19
+1128,Ocean Breeze Hotel,Surabaya,7,8,7,8,2011611,3.9,2025-10-09
+1129,Grand Luxury,Bali,7,5,8,9,2325405,3.6,2025-07-28
+1130,Mountain View Inn,Yogyakarta,4,9,9,6,1727908,3.2,2025-09-06
+1131,Mountain View Inn,Bandung,8,7,8,8,2839218,3.7,2025-10-20
+1132,City Express,Surabaya,8,5,8,7,2482118,3.5,2025-11-17
+1133,Ocean Breeze Hotel,Bali,10,9,4,8,3254869,4.0,2025-07-30
+1134,Sunset Beach Resort,Bandung,8,3,5,9,2242787,3.4,2025-09-03
+1135,Sunset Beach Resort,Bali,4,3,9,5,1659361,2.9,2025-03-20
+1136,Sunset Beach Resort,Jakarta,4,3,5,7,1303650,2.7,2025-03-31
+1137,Mountain View Inn,Yogyakarta,5,4,8,10,1802609,3.4,2025-05-08
+1138,Sunset Beach Resort,Surabaya,8,8,5,9,2241973,4.0,2025-04-06
+1139,Grand Luxury,Bali,10,6,5,5,2953637,3.3,2025-08-17
+1140,Grand Luxury,Yogyakarta,6,10,6,7,1794107,3.6,2025-06-27
+1141,City Express,Bali,6,6,7,7,2247406,3.3,2025-05-26
+1142,Sunset Beach Resort,Bandung,7,7,10,7,1959057,4.0,2025-07-17
+1143,City Express,Bandung,7,7,8,5,2241552,3.2,2025-11-25
+1144,Ocean Breeze Hotel,Surabaya,6,8,10,6,1850921,3.8,2025-03-26
+1145,Grand Luxury,Bali,10,9,6,5,2726894,3.8,2025-07-20
+1146,Ocean Breeze Hotel,Yogyakarta,5,10,6,5,1828423,3.2,2025-06-02
+1147,Ocean Breeze Hotel,Surabaya,7,9,10,6,2575611,3.9,2025-08-08
+1148,Ocean Breeze Hotel,Jakarta,4,5,6,8,1292109,2.8,2025-05-01
+1149,City Express,Yogyakarta,8,7,7,5,2637278,3.3,2025-05-16
+1150,Ocean Breeze Hotel,Surabaya,5,5,8,10,2148212,3.8,2025-04-11
+1151,Mountain View Inn,Surabaya,9,5,7,7,2564814,3.5,2025-10-04
+1152,Sunset Beach Resort,Bali,10,9,8,7,2717971,4.2,2025-09-27
+1153,Ocean Breeze Hotel,Bali,5,9,9,7,1938172,3.8,2025-12-22
+1154,Ocean Breeze Hotel,Jakarta,6,4,7,9,1799274,3.4,2025-05-06
+1155,Sunset Beach Resort,Bandung,10,6,10,5,3187226,3.8,2025-04-22
+1156,Ocean Breeze Hotel,Yogyakarta,4,4,8,6,1838301,2.7,2025-03-07
+1157,Mountain View Inn,Bali,8,8,5,10,2401039,3.9,2025-10-02
+1158,Sunset Beach Resort,Bali,10,5,8,10,3404919,4.4,2025-05-06
+1159,Mountain View Inn,Yogyakarta,10,4,5,6,3307715,3.3,2025-10-12
+1160,Mountain View Inn,Bali,8,7,6,10,2788739,3.8,2025-03-19
+1161,Grand Luxury,Jakarta,10,7,9,9,2934032,4.3,2025-07-12
+1162,Sunset Beach Resort,Yogyakarta,9,8,4,9,2522328,4.0,2025-07-30
+1163,Ocean Breeze Hotel,Jakarta,4,9,9,8,1973042,3.6,2025-04-06
+1164,Grand Luxury,Surabaya,4,3,4,5,1839321,2.0,2025-09-21
+1165,Grand Luxury,Jakarta,9,4,7,8,2819078,3.9,2025-06-14
+1166,Mountain View Inn,Bandung,5,7,8,7,1956636,3.4,2025-08-07
+1167,Grand Luxury,Bali,8,8,10,9,2951220,4.3,2025-10-11
+1168,City Express,Surabaya,7,6,4,9,2169511,3.2,2025-01-07
+1169,City Express,Bali,6,9,5,8,2107223,3.4,2025-09-29
+1170,Mountain View Inn,Jakarta,5,3,5,6,1771388,2.5,2025-01-09
+1171,City Express,Yogyakarta,10,5,10,6,2994945,3.9,2025-06-27
+1172,City Express,Jakarta,4,5,4,10,1365259,3.1,2025-04-04
+1173,Mountain View Inn,Bandung,9,5,6,8,2795723,3.8,2025-08-16
+1174,Ocean Breeze Hotel,Bandung,9,9,7,5,3018666,3.8,2025-11-08
+1175,Mountain View Inn,Yogyakarta,9,9,10,8,2941692,4.3,2025-05-09
+1176,Grand Luxury,Surabaya,10,8,8,7,2930968,4.3,2025-09-13
+1177,Mountain View Inn,Surabaya,7,5,7,7,2331171,3.5,2025-04-21
+1178,Sunset Beach Resort,Bali,4,6,10,8,1275176,3.5,2025-12-13
+1179,Mountain View Inn,Jakarta,5,3,7,10,2025958,3.2,2025-10-18
+1180,City Express,Jakarta,5,6,8,9,2047047,3.4,2025-02-26
+1181,Mountain View Inn,Yogyakarta,9,7,6,5,2991645,3.5,2025-06-30
+1182,Grand Luxury,Jakarta,7,10,4,9,2334900,3.5,2025-10-21
+1183,City Express,Bali,5,10,4,5,1625165,2.9,2025-03-16
+1184,Sunset Beach Resort,Bandung,7,7,10,9,2422553,4.3,2025-11-06
+1185,City Express,Bali,8,8,7,6,2876915,3.7,2025-01-04
+1186,Mountain View Inn,Jakarta,10,9,4,6,3205219,3.5,2025-11-12
+1187,Ocean Breeze Hotel,Bandung,10,5,8,10,2821178,4.5,2025-06-03
+1188,City Express,Bandung,7,9,8,6,2508170,3.4,2025-07-03
+1189,Mountain View Inn,Jakarta,9,4,7,9,2682314,4.1,2025-10-03
+1190,Sunset Beach Resort,Bandung,10,3,4,10,3466868,3.6,2025-05-25
+1191,Ocean Breeze Hotel,Bali,7,5,7,5,1998314,3.2,2025-04-29
+1192,Grand Luxury,Bandung,8,3,5,7,2325090,3.1,2025-03-10
+1193,Mountain View Inn,Yogyakarta,6,6,8,9,1774982,3.8,2025-12-29
+1194,Mountain View Inn,Bandung,5,5,4,7,2217014,2.7,2025-03-30
+1195,Mountain View Inn,Yogyakarta,6,5,4,10,1858321,3.3,2025-01-10
+1196,Grand Luxury,Jakarta,7,6,10,10,2255544,4.4,2025-11-05
+1197,City Express,Bandung,9,9,9,8,2811877,4.4,2025-05-10
+1198,Ocean Breeze Hotel,Jakarta,5,8,9,9,2098951,4.0,2025-01-16
+1199,Ocean Breeze Hotel,Bandung,9,6,10,10,3085399,4.6,2025-08-11
+1200,Grand Luxury,Jakarta,5,3,4,7,2104448,2.4,2025-06-28
+1201,Ocean Breeze Hotel,Surabaya,6,9,7,9,1980340,3.8,2025-01-26
+1202,Sunset Beach Resort,Bandung,7,5,9,8,2545674,3.7,2025-02-27
+1203,Sunset Beach Resort,Jakarta,7,3,6,5,2669537,2.7,2025-11-06
+1204,Ocean Breeze Hotel,Bandung,7,5,8,10,1984482,3.7,2025-06-26
+1205,Ocean Breeze Hotel,Yogyakarta,4,8,6,6,1412868,2.8,2025-07-13
+1206,City Express,Bandung,10,10,5,5,2945524,3.5,2025-05-05
+1207,Grand Luxury,Jakarta,10,9,10,10,2771254,4.8,2025-07-24
+1208,City Express,Jakarta,6,5,9,9,1922024,3.8,2025-05-15
+1209,City Express,Bali,9,6,4,9,2702215,3.8,2025-09-27
+1210,City Express,Bandung,10,9,5,5,3092300,3.6,2025-01-21
+1211,Mountain View Inn,Bali,7,5,7,5,2553854,3.2,2025-09-19
+1212,Sunset Beach Resort,Surabaya,10,5,10,8,2925693,4.5,2025-02-03
+1213,Sunset Beach Resort,Yogyakarta,6,5,8,7,2487402,3.3,2025-11-06
+1214,City Express,Jakarta,6,8,8,6,1947832,3.2,2025-06-03
+1215,Grand Luxury,Jakarta,9,7,9,7,2538225,4.1,2025-06-12
+1216,Grand Luxury,Jakarta,8,8,4,6,2971991,3.2,2025-11-16
+1217,Ocean Breeze Hotel,Yogyakarta,10,6,8,9,3268705,4.4,2025-11-28
+1218,Mountain View Inn,Jakarta,8,9,9,5,2299751,3.9,2025-04-12
+1219,Sunset Beach Resort,Surabaya,4,4,4,9,1745353,2.7,2025-09-19
+1220,Mountain View Inn,Yogyakarta,9,5,5,6,2566788,3.1,2025-12-10
+1221,Sunset Beach Resort,Jakarta,8,7,6,6,2950349,3.4,2025-10-22
+1222,Mountain View Inn,Bandung,10,9,9,7,3470011,4.2,2025-03-26
+1223,Ocean Breeze Hotel,Yogyakarta,10,9,9,7,3052700,4.5,2025-06-01
+1224,City Express,Bali,9,5,5,5,2728579,3.3,2025-06-03
+1225,Sunset Beach Resort,Surabaya,7,7,7,9,2725037,3.7,2025-03-23
+1226,Grand Luxury,Bali,6,8,9,9,2314259,4.1,2025-04-26
+1227,City Express,Bali,10,6,10,6,3214014,3.9,2025-10-06
+1228,Grand Luxury,Bandung,8,8,10,10,2396744,4.7,2025-07-15
+1229,Ocean Breeze Hotel,Jakarta,6,5,9,9,2446427,3.6,2025-03-06
+1230,City Express,Yogyakarta,10,9,10,5,2717676,4.3,2025-06-06
+1231,Sunset Beach Resort,Jakarta,8,5,10,6,2837186,3.8,2025-02-04
+1232,Sunset Beach Resort,Jakarta,10,10,9,8,2718877,4.5,2025-03-21
+1233,City Express,Surabaya,9,5,8,10,2931896,4.2,2025-06-26
+1234,Grand Luxury,Jakarta,9,7,10,9,2450807,4.6,2025-11-07
+1235,Mountain View Inn,Bandung,10,7,4,7,3373741,3.4,2025-10-10
+1236,Grand Luxury,Surabaya,7,3,5,7,2002738,2.8,2025-04-29
+1237,Grand Luxury,Bali,8,9,6,6,2724579,3.5,2025-09-26
+1238,Mountain View Inn,Surabaya,5,6,9,9,1598913,3.7,2025-06-10
+1239,Sunset Beach Resort,Bali,8,5,9,9,2830410,4.2,2025-07-14
+1240,Grand Luxury,Bali,9,6,8,9,3237928,4.3,2025-05-09
+1241,Grand Luxury,Jakarta,4,5,6,5,1542338,2.5,2025-02-05
+1242,Mountain View Inn,Bandung,10,6,8,5,2956878,3.7,2025-08-14
+1243,Sunset Beach Resort,Yogyakarta,9,8,10,7,2869664,4.1,2025-10-27
+1244,Ocean Breeze Hotel,Yogyakarta,6,7,4,8,1767089,3.0,2025-01-12
+1245,Sunset Beach Resort,Jakarta,7,9,10,8,2034483,4.2,2025-09-12
+1246,Ocean Breeze Hotel,Bandung,8,10,5,10,2221969,4.0,2025-11-03
+1247,Mountain View Inn,Yogyakarta,8,10,7,5,2466159,3.5,2025-07-29
+1248,Sunset Beach Resort,Surabaya,10,7,8,8,2940363,4.2,2025-01-23
+1249,Mountain View Inn,Bali,10,7,7,10,2966129,4.3,2025-01-25
+1250,City Express,Bali,7,6,6,6,2437690,3.2,2025-12-10
+1251,Sunset Beach Resort,Yogyakarta,5,10,8,7,1644267,3.5,2025-11-21
+1252,Ocean Breeze Hotel,Jakarta,7,8,6,8,2016687,3.7,2025-08-30
+1253,Mountain View Inn,Bali,6,9,7,6,1866124,3.5,2025-10-07
+1254,City Express,Bandung,5,9,6,9,1457568,3.6,2025-07-21
+1255,Sunset Beach Resort,Jakarta,6,4,8,6,2241036,3.1,2025-06-27
+1256,Mountain View Inn,Yogyakarta,10,8,9,9,3412215,4.5,2025-05-28
+1257,Grand Luxury,Bali,10,9,6,9,3458602,4.1,2025-05-04
+1258,Ocean Breeze Hotel,Yogyakarta,6,4,7,9,2285197,3.5,2025-04-17
+1259,Mountain View Inn,Jakarta,5,3,4,7,2048225,2.3,2025-05-15
+1260,Grand Luxury,Bandung,8,9,4,7,2677579,3.5,2025-04-27
+1261,Grand Luxury,Yogyakarta,5,9,7,9,1724568,3.8,2025-06-19
+1262,Grand Luxury,Bandung,8,5,7,10,2553698,4.0,2025-08-18
+1263,Grand Luxury,Yogyakarta,10,7,5,8,3460192,4.0,2025-06-30
+1264,Ocean Breeze Hotel,Bali,5,4,9,7,2057165,3.3,2025-01-20
+1265,City Express,Surabaya,4,3,9,7,1876034,3.0,2025-01-24
+1266,Mountain View Inn,Bandung,9,3,6,8,2834164,3.6,2025-04-25
+1267,Sunset Beach Resort,Bali,4,6,9,6,1353129,3.2,2025-08-18
+1268,Ocean Breeze Hotel,Yogyakarta,9,6,8,5,2783490,3.4,2025-07-26
+1269,Ocean Breeze Hotel,Surabaya,9,7,7,5,2825155,3.4,2025-09-12
+1270,Sunset Beach Resort,Jakarta,5,5,4,9,2112716,2.9,2025-08-03
+1271,City Express,Yogyakarta,10,4,5,7,3279356,3.6,2025-03-14
+1272,Grand Luxury,Bali,8,6,9,5,2758643,3.5,2025-08-26
+1273,City Express,Bandung,9,5,7,10,2935010,4.3,2025-04-12
+1274,Sunset Beach Resort,Bandung,9,5,8,9,2508940,4.1,2025-06-10
+1275,Grand Luxury,Yogyakarta,10,5,7,5,3128508,3.6,2025-03-02
+1276,Mountain View Inn,Surabaya,10,7,9,8,3210249,4.3,2025-02-11
+1277,City Express,Surabaya,8,7,4,6,2812047,3.1,2025-10-01
+1278,Sunset Beach Resort,Surabaya,8,7,6,8,2538070,3.5,2025-09-01
+1279,Ocean Breeze Hotel,Yogyakarta,5,10,7,8,1530505,3.7,2025-05-07
+1280,Ocean Breeze Hotel,Jakarta,10,4,10,9,3045644,4.3,2025-04-18
+1281,Ocean Breeze Hotel,Surabaya,5,9,8,6,2103842,3.3,2025-12-28
+1282,City Express,Bali,7,5,7,5,2709518,3.0,2025-11-15
+1283,Grand Luxury,Jakarta,5,5,8,8,1814986,3.1,2025-07-25
+1284,Mountain View Inn,Bandung,9,10,4,8,3135207,3.6,2025-10-30
+1285,Sunset Beach Resort,Bandung,6,4,9,10,2036680,3.9,2025-10-01
+1286,City Express,Jakarta,5,9,10,6,1973526,3.5,2025-08-09
+1287,City Express,Bali,7,6,6,10,2015805,3.8,2025-10-26
+1288,Ocean Breeze Hotel,Yogyakarta,7,9,6,9,2354110,3.7,2025-03-06
+1289,Grand Luxury,Bali,4,7,4,6,1780214,2.3,2025-10-22
+1290,Ocean Breeze Hotel,Bandung,8,7,9,10,2960237,4.4,2025-11-06
+1291,Grand Luxury,Bali,5,10,7,6,1608747,3.1,2025-03-14
+1292,City Express,Bali,4,6,9,9,1387764,3.7,2025-11-06
+1293,Sunset Beach Resort,Bandung,10,8,10,10,3469754,4.8,2025-06-22
+1294,Ocean Breeze Hotel,Surabaya,5,3,8,6,2140347,2.8,2025-03-04
+1295,Ocean Breeze Hotel,Jakarta,9,6,4,7,2739023,3.3,2025-05-03
+1296,Sunset Beach Resort,Yogyakarta,5,5,9,8,2130196,3.4,2025-01-03
+1297,Ocean Breeze Hotel,Jakarta,6,9,5,5,2284015,2.9,2025-09-27
+1298,Grand Luxury,Jakarta,7,4,5,6,2639435,2.9,2025-09-02
+1299,Mountain View Inn,Bandung,5,6,6,5,2198945,2.9,2025-09-07
+1300,Mountain View Inn,Yogyakarta,7,6,8,8,2092638,3.7,2025-08-06
+1301,Sunset Beach Resort,Bandung,4,5,4,5,1627506,2.1,2025-09-09
+1302,Grand Luxury,Bali,9,10,7,10,2779020,4.5,2025-02-03
+1303,Sunset Beach Resort,Bali,4,4,8,6,1458403,2.7,2025-12-09
+1304,City Express,Jakarta,5,10,7,6,1642270,3.4,2025-02-10
+1305,City Express,Bandung,7,9,4,7,2004583,3.4,2025-11-08
+1306,Sunset Beach Resort,Jakarta,4,10,9,8,1698553,3.7,2025-08-24
+1307,Grand Luxury,Bandung,7,10,6,10,2224357,3.9,2025-11-20
+1308,Mountain View Inn,Bali,5,7,10,6,1848763,3.3,2025-12-26
+1309,Sunset Beach Resort,Bali,5,4,8,5,1880923,2.7,2025-10-26
+1310,Mountain View Inn,Surabaya,10,6,9,10,2998572,4.6,2025-02-13
+1311,City Express,Surabaya,8,9,7,5,2263699,3.6,2025-12-01
+1312,Grand Luxury,Bandung,10,8,6,5,2866185,3.7,2025-09-18
+1313,City Express,Surabaya,8,6,8,5,2466306,3.3,2025-05-23
+1314,Grand Luxury,Jakarta,4,5,10,5,1518078,3.0,2025-12-22
+1315,Sunset Beach Resort,Surabaya,4,8,6,9,1840150,3.3,2025-12-29
+1316,City Express,Yogyakarta,6,3,7,5,2060803,2.6,2025-01-06
+1317,City Express,Bandung,10,5,7,9,3220045,4.3,2025-01-14
+1318,Sunset Beach Resort,Surabaya,8,9,5,6,2245179,3.2,2025-04-03
+1319,Ocean Breeze Hotel,Bandung,5,6,5,6,1488014,2.9,2025-08-20
+1320,City Express,Bandung,7,10,8,7,2041069,3.8,2025-01-08
+1321,City Express,Bandung,9,5,6,7,2700470,3.6,2025-05-17
+1322,City Express,Bali,4,3,10,10,1889865,3.6,2025-04-09
+1323,Sunset Beach Resort,Bandung,10,7,5,10,2745405,4.3,2025-04-05
+1324,City Express,Bali,9,3,5,10,3019022,3.5,2025-08-14
+1325,Mountain View Inn,Surabaya,6,6,7,7,2369437,3.2,2025-09-14
+1326,Sunset Beach Resort,Surabaya,5,8,8,10,2133035,3.9,2025-02-19
+1327,Sunset Beach Resort,Yogyakarta,8,4,10,5,2369959,3.5,2025-01-17
+1328,Mountain View Inn,Bandung,10,4,8,10,3189071,4.2,2025-07-10
+1329,Mountain View Inn,Bali,6,4,6,5,2415764,2.8,2025-11-29
+1330,City Express,Bali,10,6,10,6,3140077,4.1,2025-08-27
+1331,Mountain View Inn,Bali,7,3,10,8,2129500,3.8,2025-04-19
+1332,Sunset Beach Resort,Bali,5,9,6,5,1481946,3.1,2025-01-08
+1333,City Express,Surabaya,5,6,8,10,1588755,3.8,2025-06-18
+1334,Ocean Breeze Hotel,Yogyakarta,6,10,4,8,1973520,3.2,2025-08-21
+1335,Mountain View Inn,Jakarta,8,6,6,8,2419182,3.6,2025-02-07
+1336,Grand Luxury,Jakarta,6,6,7,9,1908727,3.5,2025-12-29
+1337,Mountain View Inn,Bandung,7,5,5,8,2556813,3.3,2025-12-17
+1338,Mountain View Inn,Yogyakarta,8,5,9,9,2445566,4.0,2025-09-19
+1339,City Express,Bandung,7,9,10,6,2389488,3.9,2025-10-09
+1340,City Express,Bandung,6,7,8,6,2073126,3.4,2025-05-20
+1341,Grand Luxury,Jakarta,6,9,6,8,2070994,3.5,2025-04-13
+1342,Sunset Beach Resort,Jakarta,9,7,8,10,2872572,4.5,2025-08-29
+1343,City Express,Surabaya,7,3,7,6,2159764,3.0,2025-05-10
+1344,Grand Luxury,Bali,9,3,4,5,2974437,3.0,2025-03-23
+1345,Grand Luxury,Bandung,9,6,4,5,2692000,3.0,2025-05-20
+1346,Mountain View Inn,Jakarta,6,8,7,9,1990206,3.6,2025-07-25
+1347,Sunset Beach Resort,Bali,10,8,7,5,3208345,3.8,2025-12-05
+1348,Grand Luxury,Bali,4,5,8,5,1947084,2.9,2025-03-31
+1349,Sunset Beach Resort,Surabaya,10,7,8,9,3119868,4.2,2025-06-04
+1350,Ocean Breeze Hotel,Bali,4,5,7,6,1798042,2.9,2025-08-18
+1351,Grand Luxury,Bandung,6,4,7,10,2156640,3.7,2025-02-20
+1352,Grand Luxury,Surabaya,8,6,4,9,2635233,3.6,2025-10-02
+1353,Mountain View Inn,Jakarta,5,9,8,8,1780735,3.5,2025-10-02
+1354,City Express,Yogyakarta,9,3,7,6,2599603,3.5,2025-11-11
+1355,City Express,Jakarta,10,6,5,8,2898535,3.9,2025-01-16
+1356,Mountain View Inn,Jakarta,10,10,6,10,3350411,4.4,2025-02-02
+1357,City Express,Bali,9,8,7,8,2845663,3.8,2025-12-15
+1358,Mountain View Inn,Surabaya,7,6,7,5,2281041,3.3,2025-09-12
+1359,Grand Luxury,Yogyakarta,6,9,6,7,1795253,3.3,2025-04-08
+1360,Sunset Beach Resort,Surabaya,8,3,10,7,2238257,3.9,2025-10-08
+1361,Mountain View Inn,Surabaya,5,7,5,9,1593883,3.2,2025-01-10
+1362,Grand Luxury,Surabaya,9,6,4,8,2707166,3.4,2025-06-14
+1363,Ocean Breeze Hotel,Surabaya,6,6,5,5,2352508,2.6,2025-04-14
+1364,Mountain View Inn,Surabaya,5,7,6,5,1686175,2.9,2025-07-07
+1365,Ocean Breeze Hotel,Surabaya,8,5,5,6,2540774,3.2,2025-11-18
+1366,Mountain View Inn,Jakarta,5,7,5,6,1777237,2.9,2025-06-16
+1367,City Express,Jakarta,6,4,7,9,1865004,3.3,2025-10-23
+1368,Ocean Breeze Hotel,Bali,8,10,9,8,2933786,4.3,2025-03-06
+1369,Ocean Breeze Hotel,Yogyakarta,4,6,8,10,1911132,3.7,2025-08-24
+1370,Sunset Beach Resort,Surabaya,4,3,4,5,1319942,1.9,2025-11-06
+1371,Sunset Beach Resort,Surabaya,10,10,9,9,3026244,4.6,2025-02-08
+1372,Sunset Beach Resort,Bali,6,3,6,9,2015114,3.3,2025-11-15
+1373,Mountain View Inn,Jakarta,7,8,7,10,2626099,4.1,2025-01-16
+1374,Mountain View Inn,Bali,8,6,9,5,2836504,3.4,2025-12-08
+1375,City Express,Yogyakarta,5,5,9,9,1511681,3.7,2025-02-22
+1376,Grand Luxury,Bandung,6,6,7,8,2124817,3.3,2025-03-22
+1377,City Express,Surabaya,10,10,8,10,2856103,4.8,2025-11-14
+1378,City Express,Bali,6,9,4,6,1810254,3.0,2025-01-26
+1379,Mountain View Inn,Surabaya,9,8,8,6,3096627,4.0,2026-01-01
+1380,Ocean Breeze Hotel,Jakarta,9,4,7,5,2551719,3.3,2025-08-30
+1381,Mountain View Inn,Bandung,7,5,4,6,2654812,3.0,2025-04-08
+1382,Mountain View Inn,Bandung,8,7,9,9,2228927,4.2,2025-06-19
+1383,Grand Luxury,Yogyakarta,10,7,5,10,2935274,4.1,2025-08-24
+1384,Sunset Beach Resort,Surabaya,6,4,7,6,2376290,3.0,2025-06-11
+1385,City Express,Bali,6,8,6,6,1781835,3.2,2025-05-05
+1386,Ocean Breeze Hotel,Surabaya,9,10,8,7,2829221,4.0,2025-08-26
+1387,Ocean Breeze Hotel,Yogyakarta,6,6,10,6,2408518,3.5,2025-02-09
+1388,City Express,Surabaya,5,6,10,7,1818373,3.7,2025-11-19
+1389,City Express,Jakarta,4,10,5,7,1279753,3.1,2025-12-24
+1390,Ocean Breeze Hotel,Bandung,6,7,6,7,2320697,3.3,2025-12-20
+1391,Grand Luxury,Bandung,7,8,7,8,2240725,3.6,2025-05-17
+1392,Sunset Beach Resort,Bandung,5,4,6,5,2102165,2.5,2025-06-30
+1393,Mountain View Inn,Bali,6,5,5,7,2451313,3.0,2025-01-23
+1394,Sunset Beach Resort,Bandung,8,6,6,10,2638416,3.9,2025-10-28
+1395,City Express,Jakarta,10,5,10,7,2772502,4.3,2025-10-07
+1396,City Express,Bandung,5,7,9,8,2064589,3.6,2025-11-13
+1397,Sunset Beach Resort,Yogyakarta,7,8,7,10,2341102,4.2,2025-08-30
+1398,Grand Luxury,Yogyakarta,9,5,7,9,2698607,3.8,2025-04-30
+1399,Mountain View Inn,Bali,7,10,4,7,2111000,3.4,2025-03-17
+1400,Ocean Breeze Hotel,Yogyakarta,4,5,8,10,1723271,3.4,2025-04-08
+1401,Mountain View Inn,Bandung,9,5,10,8,3111425,4.1,2025-01-09
+1402,Mountain View Inn,Surabaya,6,8,7,6,1821008,3.2,2025-06-18
+1403,Sunset Beach Resort,Jakarta,10,6,7,7,2767590,3.8,2025-02-26
+1404,Sunset Beach Resort,Bali,7,3,6,5,2658798,2.7,2025-11-24
+1405,City Express,Yogyakarta,6,4,7,9,1882950,3.3,2025-08-31
+1406,Ocean Breeze Hotel,Bali,10,4,6,6,2924419,3.5,2025-02-14
+1407,Mountain View Inn,Surabaya,4,5,9,6,1506251,2.9,2025-07-04
+1408,Grand Luxury,Bandung,10,6,10,9,3372511,4.6,2025-04-05
+1409,City Express,Bali,10,10,7,7,3165022,4.1,2025-05-19
+1410,Grand Luxury,Jakarta,4,4,7,5,1921957,2.5,2025-01-11
+1411,Ocean Breeze Hotel,Bali,4,9,5,9,1966824,3.1,2025-08-02
+1412,Ocean Breeze Hotel,Surabaya,5,4,8,10,1940915,3.4,2025-10-10
+1413,Mountain View Inn,Bali,10,10,10,5,3374797,4.2,2025-01-29
+1414,Sunset Beach Resort,Surabaya,7,10,6,8,2382053,3.7,2025-11-06
+1415,Ocean Breeze Hotel,Bandung,8,8,5,5,2531560,3.1,2025-10-29
+1416,Grand Luxury,Bali,4,8,5,9,1792714,3.2,2025-02-14
+1417,City Express,Bali,7,9,9,9,2390172,4.2,2025-08-25
+1418,City Express,Surabaya,9,7,8,10,2714663,4.5,2025-03-16
+1419,Sunset Beach Resort,Surabaya,10,8,10,10,2995947,4.7,2025-05-25
+1420,City Express,Bandung,9,5,4,5,3186358,2.9,2025-10-21
+1421,Mountain View Inn,Surabaya,9,4,4,8,2497631,3.3,2025-08-26
+1422,Sunset Beach Resort,Bali,8,6,10,9,2601276,4.4,2025-03-20
+1423,Ocean Breeze Hotel,Jakarta,9,5,8,10,3203507,4.4,2025-11-19
+1424,City Express,Bali,4,3,10,8,1920446,3.4,2025-07-06
+1425,Mountain View Inn,Jakarta,10,9,10,6,3493086,4.2,2025-01-19
+1426,City Express,Surabaya,9,8,6,9,2668375,4.0,2025-01-16
+1427,Sunset Beach Resort,Jakarta,4,7,5,10,1952750,3.2,2025-09-29
+1428,City Express,Surabaya,4,6,6,6,1754115,2.9,2025-06-08
+1429,Ocean Breeze Hotel,Jakarta,10,6,4,5,2936516,3.2,2025-03-14
+1430,Ocean Breeze Hotel,Jakarta,5,4,4,10,2056649,3.2,2025-09-20
+1431,Ocean Breeze Hotel,Surabaya,4,4,7,5,1767602,2.4,2025-12-10
+1432,City Express,Bandung,5,7,7,7,1804237,3.1,2025-01-27
+1433,Ocean Breeze Hotel,Surabaya,7,5,10,7,2422282,3.9,2025-09-19
+1434,City Express,Surabaya,8,9,5,9,2210895,3.9,2025-11-29
+1435,Grand Luxury,Bandung,8,9,7,10,2553284,4.3,2025-09-25
+1436,Mountain View Inn,Jakarta,9,10,7,6,2885625,4.0,2025-01-14
+1437,Sunset Beach Resort,Bandung,6,4,6,5,2116297,2.7,2025-03-25
+1438,City Express,Bandung,8,8,9,8,2957665,3.9,2025-04-07
+1439,Grand Luxury,Bandung,6,8,6,9,1832489,3.5,2025-04-09
+1440,City Express,Bali,4,7,9,5,1236198,2.9,2025-09-11
+1441,City Express,Bali,5,8,5,7,1600866,3.2,2025-05-29
+1442,City Express,Bali,9,6,7,7,2834579,3.8,2025-01-16
+1443,Ocean Breeze Hotel,Bali,5,5,6,9,1858147,3.1,2025-07-12
+1444,Ocean Breeze Hotel,Jakarta,8,3,7,8,2357301,3.5,2025-12-18
+1445,Sunset Beach Resort,Bali,7,7,4,9,2425068,3.5,2025-07-08
+1446,City Express,Yogyakarta,4,8,7,8,1533941,3.2,2025-05-26
+1447,Mountain View Inn,Yogyakarta,7,7,5,7,2281774,3.2,2025-07-25
+1448,City Express,Bali,5,10,10,7,1548433,3.9,2025-03-31
+1449,Sunset Beach Resort,Bali,4,3,9,7,1273952,2.9,2025-09-02
+1450,Mountain View Inn,Jakarta,8,5,10,5,2686315,3.6,2025-07-04
+1451,Ocean Breeze Hotel,Yogyakarta,5,4,4,9,1599839,3.0,2025-02-17
+1452,Grand Luxury,Bali,5,6,5,9,2027219,3.1,2025-04-16
+1453,Sunset Beach Resort,Bali,5,5,8,9,1811665,3.5,2025-01-21
+1454,Mountain View Inn,Surabaya,5,3,5,7,2247718,2.8,2025-06-06
+1455,Mountain View Inn,Jakarta,5,4,6,6,2215715,2.8,2025-07-20
+1456,Grand Luxury,Bali,6,5,10,5,2175728,3.5,2025-02-06
+1457,Grand Luxury,Surabaya,6,4,10,9,2495268,3.8,2025-02-02
+1458,City Express,Jakarta,4,10,9,8,1845302,3.7,2025-10-11
+1459,City Express,Jakarta,5,5,10,9,2126295,3.8,2025-09-16
+1460,Sunset Beach Resort,Bali,9,4,4,8,2897553,3.2,2025-11-13
+1461,Sunset Beach Resort,Bandung,8,9,8,8,2979372,4.2,2025-05-15
+1462,Ocean Breeze Hotel,Yogyakarta,8,10,10,6,2995143,4.1,2025-12-29
+1463,Ocean Breeze Hotel,Jakarta,8,8,4,10,2971409,3.7,2025-04-23
+1464,Mountain View Inn,Jakarta,7,10,6,6,2591052,3.5,2025-03-31
+1465,Grand Luxury,Surabaya,8,8,9,8,2691827,4.3,2025-03-28
+1466,Sunset Beach Resort,Surabaya,4,10,4,9,1750381,3.0,2025-02-12
+1467,Sunset Beach Resort,Jakarta,6,8,7,6,2459856,3.1,2025-11-22
+1468,Sunset Beach Resort,Yogyakarta,9,10,7,6,3100291,3.9,2025-03-16
+1469,City Express,Yogyakarta,9,8,7,6,3072376,3.7,2025-05-10
+1470,Mountain View Inn,Surabaya,8,3,5,6,2664621,3.1,2025-11-01
+1471,Sunset Beach Resort,Jakarta,5,6,4,8,1739763,2.7,2025-09-15
+1472,Grand Luxury,Bali,10,10,5,7,3363621,4.0,2025-10-30
+1473,City Express,Bandung,7,9,10,5,2569098,3.9,2025-04-19
+1474,Grand Luxury,Surabaya,6,10,5,8,2354535,3.6,2025-06-16
+1475,Grand Luxury,Jakarta,6,4,4,10,2273100,3.3,2025-02-19
+1476,Ocean Breeze Hotel,Bali,4,4,5,9,1679341,2.8,2025-01-31
+1477,Sunset Beach Resort,Bandung,9,10,7,10,3073501,4.6,2025-09-15
+1478,Ocean Breeze Hotel,Surabaya,10,8,5,10,3194169,4.3,2025-05-15
+1479,Sunset Beach Resort,Yogyakarta,10,3,5,6,3148158,3.3,2026-01-01
+1480,Mountain View Inn,Jakarta,6,8,4,5,2402729,2.8,2025-06-29
+1481,Sunset Beach Resort,Surabaya,10,6,9,9,3324955,4.4,2025-11-26
+1482,Ocean Breeze Hotel,Bali,4,7,10,6,1214872,3.4,2025-05-08
+1483,Sunset Beach Resort,Jakarta,10,8,5,8,2739906,4.1,2025-04-13
+1484,Ocean Breeze Hotel,Yogyakarta,10,9,8,6,3259409,3.9,2025-01-15
+1485,Ocean Breeze Hotel,Bandung,7,5,4,7,2569337,3.1,2025-02-05
+1486,Ocean Breeze Hotel,Bali,6,5,4,5,2253016,2.4,2025-11-26
+1487,City Express,Bandung,5,9,7,7,1658018,3.5,2025-06-16
+1488,Sunset Beach Resort,Surabaya,9,4,8,6,3133147,3.7,2025-03-23
+1489,Grand Luxury,Jakarta,7,7,8,9,2547885,3.9,2025-12-26
+1490,Ocean Breeze Hotel,Jakarta,5,10,5,6,2059257,3.0,2025-12-03
+1491,Ocean Breeze Hotel,Bali,10,7,9,10,3046921,4.8,2025-02-22
+1492,Grand Luxury,Surabaya,8,4,8,7,2574729,3.4,2025-09-02
+1493,Mountain View Inn,Bali,10,3,6,6,3415183,3.4,2025-06-25
+1494,City Express,Jakarta,4,7,7,9,1803811,3.3,2025-11-30
+1495,Sunset Beach Resort,Surabaya,10,7,8,9,2759648,4.5,2025-10-04
+1496,Ocean Breeze Hotel,Surabaya,5,5,10,10,2244698,4.0,2025-01-12
+1497,Grand Luxury,Surabaya,10,9,8,9,3042971,4.6,2025-02-20
+1498,Grand Luxury,Bandung,6,8,4,5,1855864,2.9,2025-02-03
+1499,Grand Luxury,Jakarta,8,6,6,5,2282765,3.1,2025-02-10
+1500,Grand Luxury,Yogyakarta,10,3,8,8,2850653,3.9,2025-09-27
